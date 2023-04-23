@@ -1045,6 +1045,9 @@ Zuruck0142.addEventListener('click', zuruck0142)
 const Zuruck017 = document.getElementById('zuruck17')
 Zuruck017.addEventListener('click', zuruck017)
 
+const Zuruck0172 = document.getElementById('zuruck172')
+Zuruck0172.addEventListener('click', zuruck0172)
+
 const Text01 = document.getElementById('Text1')
 
 const Text012 = document.getElementById('Text12')
@@ -1187,6 +1190,9 @@ Wo0142.addEventListener('click', Wo142)
 const Wo017 = document.getElementById('Wo17')
 Wo017.addEventListener('click', Wo17)
 
+const Wo0172 = document.getElementById('Wo172')
+Wo0172.addEventListener('click', Wo172)
+
 const Home01 = document.getElementById('Home')
 Home01.addEventListener('click', Home)
 
@@ -1244,41 +1250,80 @@ Fragezeichen.addEventListener('click', Fragezeichen1)
 const Fragezeichen2 = document.getElementById('Fragezeichen2')
 Fragezeichen2.addEventListener('click', Fragezeichen02)
 
+const Fragezeichen22 = document.getElementById('Fragezeichen22')
+Fragezeichen22.addEventListener('click', Fragezeichen022)
+
 const Fragezeichen3 = document.getElementById('Fragezeichen3')
 Fragezeichen3.addEventListener('click', Fragezeichen03)
+
+const Fragezeichen32 = document.getElementById('Fragezeichen32')
+Fragezeichen32.addEventListener('click', Fragezeichen032)
 
 const Fragezeichen4 = document.getElementById('Fragezeichen4')
 Fragezeichen4.addEventListener('click', Fragezeichen04)
 
+const Fragezeichen42 = document.getElementById('Fragezeichen42')
+Fragezeichen42.addEventListener('click', Fragezeichen042)
+
 const Fragezeichen5 = document.getElementById('Fragezeichen5')
 Fragezeichen5.addEventListener('click', Fragezeichen05)
+
+const Fragezeichen52 = document.getElementById('Fragezeichen52')
+Fragezeichen52.addEventListener('click', Fragezeichen052)
 
 const Fragezeichen6 = document.getElementById('Fragezeichen6')
 Fragezeichen6.addEventListener('click', Fragezeichen06)
 
+const Fragezeichen62 = document.getElementById('Fragezeichen62')
+Fragezeichen62.addEventListener('click', Fragezeichen062)
+
 const Fragezeichen7 = document.getElementById('Fragezeichen7')
 Fragezeichen7.addEventListener('click', Fragezeichen07)
+
+const Fragezeichen72 = document.getElementById('Fragezeichen72')
+Fragezeichen72.addEventListener('click', Fragezeichen072)
 
 const Fragezeichen8 = document.getElementById('Fragezeichen8')
 Fragezeichen8.addEventListener('click', Fragezeichen08)
 
+const Fragezeichen82 = document.getElementById('Fragezeichen82')
+Fragezeichen82.addEventListener('click', Fragezeichen082)
+
 const Fragezeichen9 = document.getElementById('Fragezeichen9')
 Fragezeichen9.addEventListener('click', Fragezeichen09)
+
+const Fragezeichen92 = document.getElementById('Fragezeichen92')
+Fragezeichen92.addEventListener('click', Fragezeichen092)
 
 const Fragezeichen10 = document.getElementById('Fragezeichen10')
 Fragezeichen10.addEventListener('click', Fragezeichen010)
 
+const Fragezeichen102 = document.getElementById('Fragezeichen102')
+Fragezeichen102.addEventListener('click', Fragezeichen0102)
+
 const Fragezeichen11 = document.getElementById('Fragezeichen11')
 Fragezeichen11.addEventListener('click', Fragezeichen011)
+
+const Fragezeichen112 = document.getElementById('Fragezeichen112')
+Fragezeichen112.addEventListener('click', Fragezeichen0112)
 
 const Fragezeichen12 = document.getElementById('Fragezeichen12')
 Fragezeichen12.addEventListener('click', Fragezeichen012)
 
+const Fragezeichen122 = document.getElementById('Fragezeichen122')
+Fragezeichen122.addEventListener('click', Fragezeichen0122)
+
 const Fragezeichen13 = document.getElementById('Fragezeichen13')
 Fragezeichen13.addEventListener('click', Fragezeichen013)
 
+const Fragezeichen132 = document.getElementById('Fragezeichen132')
+Fragezeichen132.addEventListener('click', Fragezeichen0132)
+
 const Fragezeichen14 = document.getElementById('Fragezeichen14')
 Fragezeichen14.addEventListener('click', Fragezeichen014)
+
+const Fragezeichen142 = document.getElementById('Fragezeichen142')
+Fragezeichen142.addEventListener('click', Fragezeichen0142)
 
 const Fragezeichen18 = document.getElementById('Fragezeichen18')
 Fragezeichen18.addEventListener('click', Fragezeichen018)
@@ -1286,50 +1331,95 @@ Fragezeichen18.addEventListener('click', Fragezeichen018)
 const Fragezeichen17 = document.getElementById('Fragezeichen17')
 Fragezeichen17.addEventListener('click', Fragezeichen017)
 
+const Fragezeichen172 = document.getElementById('Fragezeichen172')
+Fragezeichen172.addEventListener('click', Fragezeichen0172)
+
 const Fragzuruck01 = document.getElementById('Fragzuruck1')
 Fragzuruck01.addEventListener('click', Fragzuruck1)
 
 const Fragzuruck02 = document.getElementById('Fragzuruck2')
 Fragzuruck02.addEventListener('click', Fragzuruck2)
 
+const Fragzuruck022 = document.getElementById('Fragzuruck22')
+Fragzuruck022.addEventListener('click', Fragzuruck22)
+
 const Fragzuruck03 = document.getElementById('Fragzuruck3')
 Fragzuruck03.addEventListener('click', Fragzuruck3)
+
+const Fragzuruck032 = document.getElementById('Fragzuruck32')
+Fragzuruck032.addEventListener('click', Fragzuruck32)
 
 const Fragzuruck04 = document.getElementById('Fragzuruck4')
 Fragzuruck04.addEventListener('click', Fragzuruck4)
 
+const Fragzuruck042 = document.getElementById('Fragzuruck42')
+Fragzuruck042.addEventListener('click', Fragzuruck42)
+
 const Fragzuruck05 = document.getElementById('Fragzuruck5')
 Fragzuruck05.addEventListener('click', Fragzuruck5)
+
+const Fragzuruck052 = document.getElementById('Fragzuruck52')
+Fragzuruck052.addEventListener('click', Fragzuruck52)
 
 const Fragzuruck06 = document.getElementById('Fragzuruck6')
 Fragzuruck06.addEventListener('click', Fragzuruck6)
 
+const Fragzuruck062 = document.getElementById('Fragzuruck62')
+Fragzuruck062.addEventListener('click', Fragzuruck62)
+
 const Fragzuruck07 = document.getElementById('Fragzuruck7')
 Fragzuruck07.addEventListener('click', Fragzuruck7)
+
+const Fragzuruck072 = document.getElementById('Fragzuruck72')
+Fragzuruck072.addEventListener('click', Fragzuruck72)
 
 const Fragzuruck08 = document.getElementById('Fragzuruck8')
 Fragzuruck08.addEventListener('click', Fragzuruck8)
 
+const Fragzuruck082 = document.getElementById('Fragzuruck82')
+Fragzuruck082.addEventListener('click', Fragzuruck82)
+
 const Fragzuruck09 = document.getElementById('Fragzuruck9')
 Fragzuruck09.addEventListener('click', Fragzuruck9)
+
+const Fragzuruck092 = document.getElementById('Fragzuruck92')
+Fragzuruck092.addEventListener('click', Fragzuruck92)
 
 const Fragzuruck010 = document.getElementById('Fragzuruck10')
 Fragzuruck010.addEventListener('click', Fragzuruck10)
 
+const Fragzuruck0102 = document.getElementById('Fragzuruck102')
+Fragzuruck0102.addEventListener('click', Fragzuruck102)
+
 const Fragzuruck011 = document.getElementById('Fragzuruck11')
 Fragzuruck011.addEventListener('click', Fragzuruck11)
+
+const Fragzuruck0112 = document.getElementById('Fragzuruck112')
+Fragzuruck0112.addEventListener('click', Fragzuruck112)
 
 const Fragzuruck012 = document.getElementById('Fragzuruck12')
 Fragzuruck012.addEventListener('click', Fragzuruck12)
 
+const Fragzuruck0122 = document.getElementById('Fragzuruck122')
+Fragzuruck0122.addEventListener('click', Fragzuruck122)
+
 const Fragzuruck013 = document.getElementById('Fragzuruck13')
 Fragzuruck013.addEventListener('click', Fragzuruck13)
+
+const Fragzuruck0132 = document.getElementById('Fragzuruck132')
+Fragzuruck0132.addEventListener('click', Fragzuruck132)
 
 const Fragzuruck014 = document.getElementById('Fragzuruck14')
 Fragzuruck014.addEventListener('click', Fragzuruck14)
 
+const Fragzuruck0142 = document.getElementById('Fragzuruck142')
+Fragzuruck0142.addEventListener('click', Fragzuruck142)
+
 const Fragzuruck017 = document.getElementById('Fragzuruck17')
 Fragzuruck017.addEventListener('click', Fragzuruck17)
+
+const Fragzuruck0172 = document.getElementById('Fragzuruck172')
+Fragzuruck0172.addEventListener('click', Fragzuruck172)
 
 const Fragzuruck018 = document.getElementById('Fragzuruck18')
 Fragzuruck018.addEventListener('click', Fragzuruck18)
@@ -2946,7 +3036,7 @@ function zuruck02(){
 function zuruck022(){
     Feld02.classList.remove('hide')
     Wo022.classList.remove('hide')
-    Fragezeichen2.classList.remove('hide')
+    Fragezeichen22.classList.remove('hide')
     Home02.classList.remove('hide')
     img2.classList.remove('hide')
     Karte02.classList.add('hide')
@@ -2970,7 +3060,7 @@ function zuruck032(){
     Feld03.classList.remove('hide')
     img3.classList.remove('hide')
     Wo032.classList.remove('hide')
-    Fragezeichen3.classList.remove('hide')
+    Fragezeichen32.classList.remove('hide')
     Home03.classList.remove('hide')
     Karte03.classList.add('hide')
     Zuruck032.classList.add('hide')
@@ -2993,7 +3083,7 @@ function zuruck042(){
     Feld04.classList.remove('hide')
     img4.classList.remove('hide')
     Wo042.classList.remove('hide')
-    Fragezeichen4.classList.remove('hide')
+    Fragezeichen42.classList.remove('hide')
     Home04.classList.remove('hide')
     Karte04.classList.add('hide')
     Zuruck042.classList.add('hide')
@@ -3016,7 +3106,7 @@ function zuruck052(){
     Feld05.classList.remove('hide')
     img5.classList.remove('hide')
     Wo052.classList.remove('hide')
-    Fragezeichen5.classList.remove('hide')
+    Fragezeichen52.classList.remove('hide')
     Home05.classList.remove('hide')
     Karte05.classList.add('hide')
     Zuruck052.classList.add('hide')
@@ -3039,7 +3129,7 @@ function zuruck062(){
     Feld06.classList.remove('hide')
     img6.classList.remove('hide')
     Wo062.classList.remove('hide')
-    Fragezeichen6.classList.remove('hide')
+    Fragezeichen62.classList.remove('hide')
     Home06.classList.remove('hide')
     Karte06.classList.add('hide')
     Zuruck062.classList.add('hide')
@@ -3062,7 +3152,7 @@ function zuruck072(){
     Feld07.classList.remove('hide')
     img7.classList.remove('hide')
     Wo072.classList.remove('hide')
-    Fragezeichen7.classList.remove('hide')
+    Fragezeichen72.classList.remove('hide')
     Home07.classList.remove('hide')
     Karte07.classList.add('hide')
     Zuruck072.classList.add('hide')
@@ -3085,7 +3175,7 @@ function zuruck082(){
     Feld08.classList.remove('hide')
     img8.classList.remove('hide')
     Wo082.classList.remove('hide')
-    Fragezeichen8.classList.remove('hide')
+    Fragezeichen82.classList.remove('hide')
     Home08.classList.remove('hide')
     Karte08.classList.add('hide')
     Zuruck082.classList.add('hide')
@@ -3108,7 +3198,7 @@ function zuruck092(){
     Feld09.classList.remove('hide')
     img9.classList.remove('hide')
     Wo092.classList.remove('hide')
-    Fragezeichen9.classList.remove('hide')
+    Fragezeichen92.classList.remove('hide')
     Home09.classList.remove('hide')
     Karte09.classList.add('hide')
     Zuruck092.classList.add('hide')
@@ -3131,7 +3221,7 @@ function zuruck0102(){
     Feld010.classList.remove('hide')
     img10.classList.remove('hide')
     Wo0102.classList.remove('hide')
-    Fragezeichen10.classList.remove('hide')
+    Fragezeichen102.classList.remove('hide')
     Home010.classList.remove('hide')
     Karte010.classList.add('hide')
     Zuruck0102.classList.add('hide')
@@ -3154,7 +3244,7 @@ function zuruck0112(){
     Feld011.classList.remove('hide')
     img11.classList.remove('hide')
     Wo0112.classList.remove('hide')
-    Fragezeichen11.classList.remove('hide')
+    Fragezeichen112.classList.remove('hide')
     Home011.classList.remove('hide')
     Karte011.classList.add('hide')
     Zuruck0112.classList.add('hide')
@@ -3177,7 +3267,7 @@ function zuruck0122(){
     Feld012.classList.remove('hide')
     img12.classList.remove('hide')
     Wo0122.classList.remove('hide')
-    Fragezeichen12.classList.remove('hide')
+    Fragezeichen122.classList.remove('hide')
     Home012.classList.remove('hide')
     Karte012.classList.add('hide')
     Zuruck0122.classList.add('hide')
@@ -3200,7 +3290,7 @@ function zuruck0132(){
     Feld013.classList.remove('hide')
     img13.classList.remove('hide')
     Wo0132.classList.remove('hide')
-    Fragezeichen13.classList.remove('hide')
+    Fragezeichen132.classList.remove('hide')
     Home013.classList.remove('hide')
     Karte013.classList.add('hide')
     Zuruck0132.classList.add('hide')
@@ -3223,7 +3313,7 @@ function zuruck0142(){
     Feld014.classList.remove('hide')
     img14.classList.remove('hide')
     Wo0142.classList.remove('hide')
-    Fragezeichen14.classList.remove('hide')
+    Fragezeichen142.classList.remove('hide')
     Home014.classList.remove('hide')
     Karte014.classList.add('hide')
     Zuruck0142.classList.add('hide')
@@ -3239,8 +3329,20 @@ function zuruck017(){
     Karte017.classList.add('hide')
     Zuruck017.classList.add('hide')
     Feld017.classList.add('Feld1')
-    weiter017.classList.remove('hide')
 }
+
+function zuruck0172(){
+    Feld017.classList.remove('hide')
+    Wo0172.classList.remove('hide')
+    Fragezeichen172.classList.remove('hide')
+    Home017.classList.remove('hide')
+    Karte017.classList.add('hide')
+    Zuruck0172.classList.add('hide')
+    weiter017.classList.remove('hide')
+    Feld017.classList.add('Feld1')
+}
+
+
 
 function weiter1(){
     Video02.play()
@@ -3500,12 +3602,27 @@ function Fragzuruck2(){
     Wo02.classList.remove('hide')
     Wo022.classList.add('hide')
     Fragezeichen2.classList.remove('hide')
-    weiter02.classList.remove('hide')
     img15.classList.add('hide')
     Feld015.classList.add('hide')
     Seite015.classList.remove('container')
     Feld015.classList.remove('Feld1')
     Fragzuruck02.classList.add('hide')
+}
+
+function Fragzuruck22(){
+    Feld02.classList.remove('hide')
+    Feld02.classList.add('Feld1')
+    Home02.classList.remove('hide')
+    img2.classList.remove('hide')
+    Wo02.classList.add('hide')
+    Wo022.classList.remove('hide')
+    Fragezeichen22.classList.remove('hide')
+    weiter02.classList.remove('hide')
+    img15.classList.add('hide')
+    Feld015.classList.add('hide')
+    Seite015.classList.remove('container')
+    Feld015.classList.remove('Feld1')
+    Fragzuruck022.classList.add('hide')
 }
 
 function Fragzuruck3(){
@@ -3516,12 +3633,27 @@ function Fragzuruck3(){
     Wo03.classList.remove('hide')
     Wo032.classList.add('hide')
     Fragezeichen3.classList.remove('hide')
-    weiter03.classList.remove('hide')
     img15.classList.add('hide')
     Feld015.classList.add('hide')
     Seite015.classList.remove('container')
     Feld015.classList.remove('Feld1')
     Fragzuruck03.classList.add('hide')
+}
+
+function Fragzuruck32(){
+    Feld03.classList.remove('hide')
+    Feld03.classList.add('Feld1')
+    Home03.classList.remove('hide')
+    img3.classList.remove('hide')
+    Wo03.classList.add('hide')
+    Wo032.classList.remove('hide')
+    Fragezeichen32.classList.remove('hide')
+    weiter03.classList.remove('hide')
+    img15.classList.add('hide')
+    Feld015.classList.add('hide')
+    Seite015.classList.remove('container')
+    Feld015.classList.remove('Feld1')
+    Fragzuruck032.classList.add('hide')
 }
 
 function Fragzuruck4(){
@@ -3532,12 +3664,27 @@ function Fragzuruck4(){
     Wo04.classList.remove('hide')
     Wo042.classList.add('hide')
     Fragezeichen4.classList.remove('hide')
-    weiter04.classList.remove('hide')
     img15.classList.add('hide')
     Feld015.classList.add('hide')
     Seite015.classList.remove('container')
     Feld015.classList.remove('Feld1')
     Fragzuruck04.classList.add('hide')
+}
+
+function Fragzuruck42(){
+    Feld04.classList.remove('hide')
+    Feld04.classList.add('Feld1')
+    Home04.classList.remove('hide')
+    img4.classList.remove('hide')
+    Wo04.classList.add('hide')
+    Wo042.classList.remove('hide')
+    Fragezeichen42.classList.remove('hide')
+    weiter04.classList.remove('hide')
+    img15.classList.add('hide')
+    Feld015.classList.add('hide')
+    Seite015.classList.remove('container')
+    Feld015.classList.remove('Feld1')
+    Fragzuruck042.classList.add('hide')
 }
 
 function Fragzuruck5(){
@@ -3548,12 +3695,27 @@ function Fragzuruck5(){
     Wo05.classList.remove('hide')
     Wo052.classList.add('hide')
     Fragezeichen5.classList.remove('hide')
-    weiter05.classList.remove('hide')
     img15.classList.add('hide')
     Feld015.classList.add('hide')
     Seite015.classList.remove('container')
     Feld015.classList.remove('Feld1')
     Fragzuruck05.classList.add('hide')
+}
+
+function Fragzuruck52(){
+    Feld05.classList.remove('hide')
+    Feld05.classList.add('Feld1')
+    Home05.classList.remove('hide')
+    img5.classList.remove('hide')
+    Wo05.classList.add('hide')
+    Wo052.classList.remove('hide')
+    Fragezeichen52.classList.remove('hide')
+    weiter05.classList.remove('hide')
+    img15.classList.add('hide')
+    Feld015.classList.add('hide')
+    Seite015.classList.remove('container')
+    Feld015.classList.remove('Feld1')
+    Fragzuruck052.classList.add('hide')
 }
 
 function Fragzuruck6(){
@@ -3564,12 +3726,27 @@ function Fragzuruck6(){
     Wo06.classList.remove('hide')
     Wo062.classList.add('hide')
     Fragezeichen6.classList.remove('hide')
-    weiter06.classList.remove('hide')
     img15.classList.add('hide')
     Feld015.classList.add('hide')
     Seite015.classList.remove('container')
     Feld015.classList.remove('Feld1')
     Fragzuruck06.classList.add('hide')
+}
+
+function Fragzuruck62(){
+    Feld06.classList.remove('hide')
+    Feld06.classList.add('Feld1')
+    Home06.classList.remove('hide')
+    img6.classList.remove('hide')
+    Wo06.classList.add('hide')
+    Wo062.classList.remove('hide')
+    Fragezeichen62.classList.remove('hide')
+    weiter06.classList.remove('hide')
+    img15.classList.add('hide')
+    Feld015.classList.add('hide')
+    Seite015.classList.remove('container')
+    Feld015.classList.remove('Feld1')
+    Fragzuruck062.classList.add('hide')
 }
 
 function Fragzuruck7(){
@@ -3580,12 +3757,27 @@ function Fragzuruck7(){
     Wo07.classList.remove('hide')
     Wo072.classList.add('hide')
     Fragezeichen7.classList.remove('hide')
-    weiter07.classList.remove('hide')
     img15.classList.add('hide')
     Feld015.classList.add('hide')
     Seite015.classList.remove('container')
     Feld015.classList.remove('Feld1')
     Fragzuruck07.classList.add('hide')
+}
+
+function Fragzuruck72(){
+    Feld07.classList.remove('hide')
+    Feld07.classList.add('Feld1')
+    Home07.classList.remove('hide')
+    img7.classList.remove('hide')
+    Wo07.classList.add('hide')
+    Wo072.classList.remove('hide')
+    Fragezeichen72.classList.remove('hide')
+    weiter07.classList.remove('hide')
+    img15.classList.add('hide')
+    Feld015.classList.add('hide')
+    Seite015.classList.remove('container')
+    Feld015.classList.remove('Feld1')
+    Fragzuruck072.classList.add('hide')
 }
 
 function Fragzuruck8(){
@@ -3596,12 +3788,27 @@ function Fragzuruck8(){
     Wo08.classList.remove('hide')
     Wo082.classList.add('hide')
     Fragezeichen8.classList.remove('hide')
-    weiter08.classList.remove('hide')
     img15.classList.add('hide')
     Feld015.classList.add('hide')
     Seite015.classList.remove('container')
     Feld015.classList.remove('Feld1')
     Fragzuruck08.classList.add('hide')
+}
+
+function Fragzuruck82(){
+    Feld08.classList.remove('hide')
+    Feld08.classList.add('Feld1')
+    Home08.classList.remove('hide')
+    img8.classList.remove('hide')
+    Wo08.classList.add('hide')
+    Wo082.classList.remove('hide')
+    Fragezeichen82.classList.remove('hide')
+    weiter08.classList.remove('hide')
+    img15.classList.add('hide')
+    Feld015.classList.add('hide')
+    Seite015.classList.remove('container')
+    Feld015.classList.remove('Feld1')
+    Fragzuruck082.classList.add('hide')
 }
 
 function Fragzuruck9(){
@@ -3612,12 +3819,27 @@ function Fragzuruck9(){
     Wo09.classList.remove('hide')
     Wo092.classList.add('hide')
     Fragezeichen9.classList.remove('hide')
-    weiter09.classList.remove('hide')
     img15.classList.add('hide')
     Feld015.classList.add('hide')
     Seite015.classList.remove('container')
     Feld015.classList.remove('Feld1')
     Fragzuruck09.classList.add('hide')
+}
+
+function Fragzuruck92(){
+    Feld09.classList.remove('hide')
+    Feld09.classList.add('Feld1')
+    Home09.classList.remove('hide')
+    img9.classList.remove('hide')
+    Wo09.classList.add('hide')
+    Wo092.classList.remove('hide')
+    Fragezeichen92.classList.remove('hide')
+    weiter09.classList.remove('hide')
+    img15.classList.add('hide')
+    Feld015.classList.add('hide')
+    Seite015.classList.remove('container')
+    Feld015.classList.remove('Feld1')
+    Fragzuruck092.classList.add('hide')
 }
 
 function Fragzuruck10(){
@@ -3628,12 +3850,27 @@ function Fragzuruck10(){
     Wo010.classList.remove('hide')
     Wo0102.classList.add('hide')
     Fragezeichen10.classList.remove('hide')
-    weiter010.classList.remove('hide')
     img15.classList.add('hide')
     Feld015.classList.add('hide')
     Seite015.classList.remove('container')
     Feld015.classList.remove('Feld1')
     Fragzuruck010.classList.add('hide')
+}
+
+function Fragzuruck102(){
+    Feld010.classList.remove('hide')
+    Feld010.classList.add('Feld1')
+    Home010.classList.remove('hide')
+    img10.classList.remove('hide')
+    Wo010.classList.add('hide')
+    Wo0102.classList.remove('hide')
+    Fragezeichen102.classList.remove('hide')
+    weiter010.classList.remove('hide')
+    img15.classList.add('hide')
+    Feld015.classList.add('hide')
+    Seite015.classList.remove('container')
+    Feld015.classList.remove('Feld1')
+    Fragzuruck0102.classList.add('hide')
 }
 
 function Fragzuruck11(){
@@ -3644,12 +3881,27 @@ function Fragzuruck11(){
     Wo011.classList.remove('hide')
     Wo0112.classList.add('hide')
     Fragezeichen11.classList.remove('hide')
-    weiter011.classList.remove('hide')
     img15.classList.add('hide')
     Feld015.classList.add('hide')
     Seite015.classList.remove('container')
     Feld015.classList.remove('Feld1')
     Fragzuruck011.classList.add('hide')
+}
+
+function Fragzuruck112(){
+    Feld011.classList.remove('hide')
+    Feld011.classList.add('Feld1')
+    Home011.classList.remove('hide')
+    img11.classList.remove('hide')
+    Wo011.classList.add('hide')
+    Wo0112.classList.remove('hide')
+    Fragezeichen112.classList.remove('hide')
+    weiter011.classList.remove('hide')
+    img15.classList.add('hide')
+    Feld015.classList.add('hide')
+    Seite015.classList.remove('container')
+    Feld015.classList.remove('Feld1')
+    Fragzuruck0112.classList.add('hide')
 }
 
 function Fragzuruck12(){
@@ -3660,12 +3912,27 @@ function Fragzuruck12(){
     Wo012.classList.remove('hide')
     Wo0122.classList.add('hide')
     Fragezeichen12.classList.remove('hide')
-    weiter012.classList.remove('hide')
     img15.classList.add('hide')
     Feld015.classList.add('hide')
     Seite015.classList.remove('container')
     Feld015.classList.remove('Feld1')
     Fragzuruck012.classList.add('hide')
+}
+
+function Fragzuruck122(){
+    Feld012.classList.remove('hide')
+    Feld012.classList.add('Feld1')
+    Home012.classList.remove('hide')
+    img12.classList.remove('hide')
+    Wo012.classList.add('hide')
+    Wo0122.classList.remove('hide')
+    Fragezeichen122.classList.remove('hide')
+    weiter012.classList.remove('hide')
+    img15.classList.add('hide')
+    Feld015.classList.add('hide')
+    Seite015.classList.remove('container')
+    Feld015.classList.remove('Feld1')
+    Fragzuruck0122.classList.add('hide')
 }
 
 function Fragzuruck13(){
@@ -3676,12 +3943,27 @@ function Fragzuruck13(){
     Wo013.classList.remove('hide')
     Wo0132.classList.add('hide')
     Fragezeichen13.classList.remove('hide')
-    weiter013.classList.remove('hide')
     img15.classList.add('hide')
     Feld015.classList.add('hide')
     Seite015.classList.remove('container')
     Feld015.classList.remove('Feld1')
     Fragzuruck013.classList.add('hide')
+}
+
+function Fragzuruck132(){
+    Feld013.classList.remove('hide')
+    Feld013.classList.add('Feld1')
+    Home013.classList.remove('hide')
+    img13.classList.remove('hide')
+    Wo013.classList.add('hide')
+    Wo0132.classList.remove('hide')
+    Fragezeichen132.classList.remove('hide')
+    weiter013.classList.remove('hide')
+    img15.classList.add('hide')
+    Feld015.classList.add('hide')
+    Seite015.classList.remove('container')
+    Feld015.classList.remove('Feld1')
+    Fragzuruck0132.classList.add('hide')
 }
 
 function Fragzuruck14(){
@@ -3697,7 +3979,22 @@ function Fragzuruck14(){
     Seite015.classList.remove('container')
     Feld015.classList.remove('Feld1')
     Fragzuruck014.classList.add('hide')
+}
+
+function Fragzuruck142(){
+    Feld014.classList.remove('hide')
+    Feld014.classList.add('Feld1')
+    Home014.classList.remove('hide')
+    img14.classList.remove('hide')
+    Wo014.classList.add('hide')
+    Wo0142.classList.remove('hide')
+    Fragezeichen142.classList.remove('hide')
     weiter014.classList.remove('hide')
+    img15.classList.add('hide')
+    Feld015.classList.add('hide')
+    Seite015.classList.remove('container')
+    Feld015.classList.remove('Feld1')
+    Fragzuruck0142.classList.add('hide')
 }
 
 function Fragzuruck17(){
@@ -3710,8 +4007,22 @@ function Fragzuruck17(){
     Seite015.classList.remove('container')
     Feld015.classList.remove('Feld1')
     Fragzuruck017.classList.add('hide')
+    Wo0172.classList.remove('hide')
+}
+
+function Fragzuruck172(){
+    Feld017.classList.remove('hide')
+    Feld017.classList.add('Feld1')
+    Home017.classList.remove('hide')
+    Wo017.classList.add('hide')
+    Wo0172.classList.remove('hide')
+    Fragezeichen172.classList.remove('hide')
     weiter017.classList.remove('hide')
-    Wo017.classList.remove('hide')
+    img15.classList.add('hide')
+    Feld015.classList.add('hide')
+    Seite015.classList.remove('container')
+    Feld015.classList.remove('Feld1')
+    Fragzuruck0172.classList.add('hide')
 }
 
 function Fragzuruck18(){
@@ -3735,7 +4046,6 @@ function Fragezeichen1(){
     Wo01.classList.add('hide')
     Fragezeichen.classList.add('hide')
     weiter01.classList.add('hide')
-    img15.classList.remove('hide')
     Feld015.classList.remove('hide')
     Seite015.classList.add('container')
     Feld015.classList.add('Feld1')
@@ -3748,14 +4058,25 @@ function Fragezeichen02(){
     Home02.classList.add('hide')
     img2.classList.add('hide')
     Wo02.classList.add('hide')
-    Wo022.classList.add('hide')
-    Fragezeichen2.classList.add('hide')
-    weiter02.classList.add('hide')
-    img15.classList.remove('hide')
     Feld015.classList.remove('hide')
     Seite015.classList.add('container')
     Feld015.classList.add('Feld1')
+    Fragezeichen2.classList.add('hide')
     Fragzuruck02.classList.remove('hide')
+}
+
+function Fragezeichen022(){
+    Feld02.classList.add('hide')
+    Feld02.classList.remove('Feld1')
+    Home02.classList.add('hide')
+    img2.classList.add('hide')
+    Wo022.classList.add('hide')
+    Fragezeichen22.classList.add('hide')
+    weiter02.classList.add('hide')
+    Feld015.classList.remove('hide')
+    Seite015.classList.add('container')
+    Feld015.classList.add('Feld1')
+    Fragzuruck022.classList.remove('hide')
 }
 
 function Fragezeichen03(){
@@ -3767,11 +4088,24 @@ function Fragezeichen03(){
     Wo032.classList.add('hide')
     Fragezeichen3.classList.add('hide')
     weiter03.classList.add('hide')
-    img15.classList.remove('hide')
     Feld015.classList.remove('hide')
     Seite015.classList.add('container')
     Feld015.classList.add('Feld1')
     Fragzuruck03.classList.remove('hide')
+}
+
+function Fragezeichen032(){
+    Feld03.classList.add('hide')
+    Feld03.classList.remove('Feld1')
+    Home03.classList.add('hide')
+    img3.classList.add('hide')
+    Wo032.classList.add('hide')
+    Fragezeichen32.classList.add('hide')
+    weiter03.classList.add('hide')
+    Feld015.classList.remove('hide')
+    Seite015.classList.add('container')
+    Feld015.classList.add('Feld1')
+    Fragzuruck032.classList.remove('hide')
 }
 
 function Fragezeichen04(){
@@ -3783,11 +4117,24 @@ function Fragezeichen04(){
     Wo042.classList.add('hide')
     Fragezeichen4.classList.add('hide')
     weiter04.classList.add('hide')
-    img15.classList.remove('hide')
     Feld015.classList.remove('hide')
     Seite015.classList.add('container')
     Feld015.classList.add('Feld1')
     Fragzuruck04.classList.remove('hide')
+}
+
+function Fragezeichen042(){
+    Feld04.classList.add('hide')
+    Feld04.classList.remove('Feld1')
+    Home04.classList.add('hide')
+    img4.classList.add('hide')
+    Wo042.classList.add('hide')
+    Fragezeichen42.classList.add('hide')
+    weiter04.classList.add('hide')
+    Feld015.classList.remove('hide')
+    Seite015.classList.add('container')
+    Feld015.classList.add('Feld1')
+    Fragzuruck042.classList.remove('hide')
 }
 
 function Fragezeichen05(){
@@ -3799,11 +4146,24 @@ function Fragezeichen05(){
     Wo052.classList.add('hide')
     Fragezeichen5.classList.add('hide')
     weiter05.classList.add('hide')
-    img15.classList.remove('hide')
     Feld015.classList.remove('hide')
     Seite015.classList.add('container')
     Feld015.classList.add('Feld1')
     Fragzuruck05.classList.remove('hide')
+}
+
+function Fragezeichen052(){
+    Feld05.classList.add('hide')
+    Feld05.classList.remove('Feld1')
+    Home05.classList.add('hide')
+    img5.classList.add('hide')
+    Wo052.classList.add('hide')
+    Fragezeichen52.classList.add('hide')
+    weiter05.classList.add('hide')
+    Feld015.classList.remove('hide')
+    Seite015.classList.add('container')
+    Feld015.classList.add('Feld1')
+    Fragzuruck052.classList.remove('hide')
 }
 
 function Fragezeichen06(){
@@ -3813,13 +4173,26 @@ function Fragezeichen06(){
     img6.classList.add('hide')
     Wo06.classList.add('hide')
     Wo062.classList.add('hide')
-    Fragezeichen6.classList.add('hide')
     weiter06.classList.add('hide')
-    img15.classList.remove('hide')
+    Fragezeichen6.classList.add('hide')
     Feld015.classList.remove('hide')
     Seite015.classList.add('container')
     Feld015.classList.add('Feld1')
     Fragzuruck06.classList.remove('hide')
+}
+
+function Fragezeichen062(){
+    Feld06.classList.add('hide')
+    Feld06.classList.remove('Feld1')
+    Home06.classList.add('hide')
+    img6.classList.add('hide')
+    Wo062.classList.add('hide')
+    Fragezeichen62.classList.add('hide')
+    weiter06.classList.add('hide')
+    Feld015.classList.remove('hide')
+    Seite015.classList.add('container')
+    Feld015.classList.add('Feld1')
+    Fragzuruck062.classList.remove('hide')
 }
 
 function Fragezeichen07(){
@@ -3831,11 +4204,24 @@ function Fragezeichen07(){
     Wo072.classList.add('hide')
     Fragezeichen7.classList.add('hide')
     weiter07.classList.add('hide')
-    img15.classList.remove('hide')
     Feld015.classList.remove('hide')
     Seite015.classList.add('container')
     Feld015.classList.add('Feld1')
     Fragzuruck07.classList.remove('hide')
+}
+
+function Fragezeichen072(){
+    Feld07.classList.add('hide')
+    Feld07.classList.remove('Feld1')
+    Home07.classList.add('hide')
+    img7.classList.add('hide')
+    Wo072.classList.add('hide')
+    Fragezeichen72.classList.add('hide')
+    weiter07.classList.add('hide')
+    Feld015.classList.remove('hide')
+    Seite015.classList.add('container')
+    Feld015.classList.add('Feld1')
+    Fragzuruck072.classList.remove('hide')
 }
 
 function Fragezeichen08(){
@@ -3847,11 +4233,24 @@ function Fragezeichen08(){
     Wo082.classList.add('hide')
     Fragezeichen8.classList.add('hide')
     weiter08.classList.add('hide')
-    img15.classList.remove('hide')
     Feld015.classList.remove('hide')
     Seite015.classList.add('container')
     Feld015.classList.add('Feld1')
     Fragzuruck08.classList.remove('hide')
+}
+
+function Fragezeichen082(){
+    Feld08.classList.add('hide')
+    Feld08.classList.remove('Feld1')
+    Home08.classList.add('hide')
+    img8.classList.add('hide')
+    Wo082.classList.add('hide')
+    Fragezeichen82.classList.add('hide')
+    weiter08.classList.add('hide')
+    Feld015.classList.remove('hide')
+    Seite015.classList.add('container')
+    Feld015.classList.add('Feld1')
+    Fragzuruck082.classList.remove('hide')
 }
 
 function Fragezeichen09(){
@@ -3863,11 +4262,24 @@ function Fragezeichen09(){
     Wo092.classList.add('hide')
     Fragezeichen9.classList.add('hide')
     weiter09.classList.add('hide')
-    img15.classList.remove('hide')
     Feld015.classList.remove('hide')
     Seite015.classList.add('container')
     Feld015.classList.add('Feld1')
     Fragzuruck09.classList.remove('hide')
+}
+
+function Fragezeichen092(){
+    Feld09.classList.add('hide')
+    Feld09.classList.remove('Feld1')
+    Home09.classList.add('hide')
+    img9.classList.add('hide')
+    Wo092.classList.add('hide')
+    Fragezeichen92.classList.add('hide')
+    weiter09.classList.add('hide')
+    Feld015.classList.remove('hide')
+    Seite015.classList.add('container')
+    Feld015.classList.add('Feld1')
+    Fragzuruck092.classList.remove('hide')
 }
 
 function Fragezeichen010(){
@@ -3879,11 +4291,24 @@ function Fragezeichen010(){
     Wo0102.classList.add('hide')
     Fragezeichen10.classList.add('hide')
     weiter010.classList.add('hide')
-    img15.classList.remove('hide')
     Feld015.classList.remove('hide')
     Seite015.classList.add('container')
     Feld015.classList.add('Feld1')
     Fragzuruck010.classList.remove('hide')
+}
+
+function Fragezeichen0102(){
+    Feld010.classList.add('hide')
+    Feld010.classList.remove('Feld1')
+    Home010.classList.add('hide')
+    img10.classList.add('hide')
+    Wo0102.classList.add('hide')
+    Fragezeichen102.classList.add('hide')
+    weiter010.classList.add('hide')
+    Feld015.classList.remove('hide')
+    Seite015.classList.add('container')
+    Feld015.classList.add('Feld1')
+    Fragzuruck0102.classList.remove('hide')
 }
 
 function Fragezeichen011(){
@@ -3895,11 +4320,24 @@ function Fragezeichen011(){
     Wo0112.classList.add('hide')
     Fragezeichen11.classList.add('hide')
     weiter011.classList.add('hide')
-    img15.classList.remove('hide')
     Feld015.classList.remove('hide')
     Seite015.classList.add('container')
     Feld015.classList.add('Feld1')
     Fragzuruck011.classList.remove('hide')
+}
+
+function Fragezeichen0112(){
+    Feld011.classList.add('hide')
+    Feld011.classList.remove('Feld1')
+    Home011.classList.add('hide')
+    img11.classList.add('hide')
+    Wo0112.classList.add('hide')
+    Fragezeichen112.classList.add('hide')
+    weiter011.classList.add('hide')
+    Feld015.classList.remove('hide')
+    Seite015.classList.add('container')
+    Feld015.classList.add('Feld1')
+    Fragzuruck0112.classList.remove('hide')
 }
 
 function Fragezeichen012(){
@@ -3911,11 +4349,24 @@ function Fragezeichen012(){
     Wo0122.classList.add('hide')
     Fragezeichen12.classList.add('hide')
     weiter012.classList.add('hide')
-    img15.classList.remove('hide')
     Feld015.classList.remove('hide')
     Seite015.classList.add('container')
     Feld015.classList.add('Feld1')
     Fragzuruck012.classList.remove('hide')
+}
+
+function Fragezeichen0122(){
+    Feld012.classList.add('hide')
+    Feld012.classList.remove('Feld1')
+    Home012.classList.add('hide')
+    img12.classList.add('hide')
+    Wo0122.classList.add('hide')
+    Fragezeichen122.classList.add('hide')
+    weiter012.classList.add('hide')
+    Feld015.classList.remove('hide')
+    Seite015.classList.add('container')
+    Feld015.classList.add('Feld1')
+    Fragzuruck0122.classList.remove('hide')
 }
 
 function Fragezeichen013(){
@@ -3927,11 +4378,38 @@ function Fragezeichen013(){
     Wo0132.classList.add('hide')
     Fragezeichen13.classList.add('hide')
     weiter013.classList.add('hide')
-    img15.classList.remove('hide')
     Feld015.classList.remove('hide')
     Seite015.classList.add('container')
     Feld015.classList.add('Feld1')
     Fragzuruck013.classList.remove('hide')
+}
+
+function Fragezeichen0132(){
+    Feld013.classList.add('hide')
+    Feld013.classList.remove('Feld1')
+    Home013.classList.add('hide')
+    img13.classList.add('hide')
+    Wo0132.classList.add('hide')
+    Fragezeichen132.classList.add('hide')
+    weiter013.classList.add('hide')
+    Feld015.classList.remove('hide')
+    Seite015.classList.add('container')
+    Feld015.classList.add('Feld1')
+    Fragzuruck0132.classList.remove('hide')
+}
+
+function Fragezeichen0142(){
+    Feld014.classList.add('hide')
+    Feld014.classList.remove('Feld1')
+    Home014.classList.add('hide')
+    img14.classList.add('hide')
+    Wo0142.classList.add('hide')
+    Fragezeichen142.classList.add('hide')
+    weiter014.classList.add('hide')
+    Feld015.classList.remove('hide')
+    Seite015.classList.add('container')
+    Feld015.classList.add('Feld1')
+    Fragzuruck0142.classList.remove('hide')
 }
 
 function Fragezeichen014(){
@@ -3942,7 +4420,6 @@ function Fragezeichen014(){
     Wo014.classList.add('hide')
     Wo0142.classList.add('hide')
     Fragezeichen14.classList.add('hide')
-    img15.classList.remove('hide')
     Feld015.classList.remove('hide')
     Seite015.classList.add('container')
     Feld015.classList.add('Feld1')
@@ -3955,7 +4432,6 @@ function Fragezeichen018(){
     Feld018.classList.remove('Feld1')
     Home018.classList.add('hide')
     Fragezeichen18.classList.add('hide')
-    img15.classList.remove('hide')
     Feld015.classList.remove('hide')
     Seite015.classList.add('container')
     Feld015.classList.add('Feld1')
@@ -3968,13 +4444,26 @@ function Fragezeichen017(){
     Feld017.classList.remove('Feld1')
     Home017.classList.add('hide')
     Fragezeichen17.classList.add('hide')
-    img15.classList.remove('hide')
     Feld015.classList.remove('hide')
     Seite015.classList.add('container')
     Feld015.classList.add('Feld1')
     Fragzuruck017.classList.remove('hide')
     weiter017.classList.add('hide')
     Wo017.classList.add('hide')
+    Wo0172.classList.add('hide')
+}
+
+function Fragezeichen0172(){
+    Feld017.classList.add('hide')
+    Feld017.classList.remove('Feld1')
+    Home017.classList.add('hide')
+    Wo0172.classList.add('hide')
+    Fragezeichen172.classList.add('hide')
+    weiter017.classList.add('hide')
+    Feld015.classList.remove('hide')
+    Seite015.classList.add('container')
+    Feld015.classList.add('Feld1')
+    Fragzuruck0172.classList.remove('hide')
 }
 
 function Wo1(){
@@ -4006,7 +4495,7 @@ function Wo22(){
     Feld02.classList.add('hide')
     img2.classList.add('hide')
     Wo022.classList.add('hide')
-    Fragezeichen2.classList.add('hide')
+    Fragezeichen22.classList.add('hide')
     Home02.classList.add('hide')
     Karte02.classList.remove('hide')
     weiter02.classList.add('hide')
@@ -4030,7 +4519,7 @@ function Wo32(){
     Feld03.classList.add('hide')
     img3.classList.add('hide')
     Wo032.classList.add('hide')
-    Fragezeichen3.classList.add('hide')
+    Fragezeichen32.classList.add('hide')
     Home03.classList.add('hide')
     Karte03.classList.remove('hide')
     Zuruck032.classList.remove('hide')
@@ -4054,7 +4543,7 @@ function Wo42(){
     Feld04.classList.add('hide')
     img4.classList.add('hide')
     Wo042.classList.add('hide')
-    Fragezeichen4.classList.add('hide')
+    Fragezeichen42.classList.add('hide')
     Home04.classList.add('hide')
     Karte04.classList.remove('hide')
     Zuruck042.classList.remove('hide')
@@ -4078,7 +4567,7 @@ function Wo52(){
     Feld05.classList.add('hide')
     img5.classList.add('hide')
     Wo052.classList.add('hide')
-    Fragezeichen5.classList.add('hide')
+    Fragezeichen52.classList.add('hide')
     Home05.classList.add('hide')
     Karte05.classList.remove('hide')
     Zuruck052.classList.remove('hide')
@@ -4102,7 +4591,7 @@ function Wo62(){
     Feld06.classList.add('hide')
     img6.classList.add('hide')
     Wo062.classList.add('hide')
-    Fragezeichen6.classList.add('hide')
+    Fragezeichen62.classList.add('hide')
     Home06.classList.add('hide')
     Karte06.classList.remove('hide')
     Zuruck062.classList.remove('hide')
@@ -4126,7 +4615,7 @@ function Wo72(){
     Feld07.classList.add('hide')
     img7.classList.add('hide')
     Wo072.classList.add('hide')
-    Fragezeichen7.classList.add('hide')
+    Fragezeichen72.classList.add('hide')
     Home07.classList.add('hide')
     Karte07.classList.remove('hide')
     Zuruck072.classList.remove('hide')
@@ -4150,7 +4639,7 @@ function Wo82(){
     Feld08.classList.add('hide')
     img8.classList.add('hide')
     Wo082.classList.add('hide')
-    Fragezeichen8.classList.add('hide')
+    Fragezeichen82.classList.add('hide')
     Home08.classList.add('hide')
     Karte08.classList.remove('hide')
     Zuruck082.classList.remove('hide')
@@ -4174,7 +4663,7 @@ function Wo92(){
     Feld09.classList.add('hide')
     img9.classList.add('hide')
     Wo092.classList.add('hide')
-    Fragezeichen9.classList.add('hide')
+    Fragezeichen92.classList.add('hide')
     Home09.classList.add('hide')
     Karte09.classList.remove('hide')
     Zuruck092.classList.remove('hide')
@@ -4198,7 +4687,7 @@ function Wo102(){
     Feld010.classList.add('hide')
     img10.classList.add('hide')
     Wo0102.classList.add('hide')
-    Fragezeichen10.classList.add('hide')
+    Fragezeichen102.classList.add('hide')
     Home010.classList.add('hide')
     Karte010.classList.remove('hide')
     Zuruck0102.classList.remove('hide')
@@ -4222,7 +4711,7 @@ function Wo112(){
     Feld011.classList.add('hide')
     img11.classList.add('hide')
     Wo0112.classList.add('hide')
-    Fragezeichen11.classList.add('hide')
+    Fragezeichen112.classList.add('hide')
     Home011.classList.add('hide')
     Karte011.classList.remove('hide')
     Zuruck0112.classList.remove('hide')
@@ -4246,7 +4735,7 @@ function Wo122(){
     Feld012.classList.add('hide')
     img12.classList.add('hide')
     Wo0122.classList.add('hide')
-    Fragezeichen12.classList.add('hide')
+    Fragezeichen122.classList.add('hide')
     Home012.classList.add('hide')
     Karte012.classList.remove('hide')
     Zuruck0122.classList.remove('hide')
@@ -4270,7 +4759,7 @@ function Wo132(){
     Feld013.classList.add('hide')
     img13.classList.add('hide')
     Wo0132.classList.add('hide')
-    Fragezeichen13.classList.add('hide')
+    Fragezeichen132.classList.add('hide')
     Home013.classList.add('hide')
     Karte013.classList.remove('hide')
     Zuruck0132.classList.remove('hide')
@@ -4294,7 +4783,7 @@ function Wo142(){
     Feld014.classList.add('hide')
     img14.classList.add('hide')
     Wo0142.classList.add('hide')
-    Fragezeichen14.classList.add('hide')
+    Fragezeichen142.classList.add('hide')
     Home014.classList.add('hide')
     Karte014.classList.remove('hide')
     Zuruck0142.classList.remove('hide')
@@ -4311,6 +4800,17 @@ function Wo17(){
     Zuruck017.classList.remove('hide')
     Feld017.classList.remove('Feld1')
     weiter017.classList.add('hide')
+}
+
+function Wo172(){
+    Feld017.classList.add('hide')
+    Wo0172.classList.add('hide')
+    Fragezeichen172.classList.add('hide')
+    Home017.classList.add('hide')
+    Karte017.classList.remove('hide')
+    Zuruck0172.classList.remove('hide')
+    weiter017.classList.add('hide')
+    Feld017.classList.remove('Feld1')
 }
 
 function loc01(){
@@ -4333,6 +4833,8 @@ function loc02(){
     Feld02.classList.remove('hide')
     Seite02.classList.add('container')
     Fragezeichen2.classList.remove('hide')
+    Fragezeichen22.classList.add('hide')
+    Wo022.classList.add('hide')
     Feld02.classList.add('Feld1')
     Text012.classList.remove('hide')
     Text022.classList.add('hide')
@@ -4357,6 +4859,8 @@ function loc03(){
     Feld03.classList.remove('hide')
     Seite03.classList.add('container')
     Fragezeichen3.classList.remove('hide')
+    Fragezeichen32.classList.add('hide')
+    Wo032.classList.add('hide')
     Feld03.classList.add('Feld1')
     Text013.classList.remove('hide')
     Text023.classList.add('hide')
@@ -4375,6 +4879,8 @@ function loc04(){
     Feld04.classList.remove('hide')
     Seite04.classList.add('container')
     Fragezeichen4.classList.remove('hide')
+    Fragezeichen42.classList.add('hide')
+    Wo042.classList.add('hide')
     Feld04.classList.add('Feld1')
     Text014.classList.remove('hide')
     Text024.classList.add('hide')
@@ -4393,6 +4899,8 @@ function loc05(){
     Feld05.classList.remove('hide')
     Seite05.classList.add('container')
     Fragezeichen5.classList.remove('hide')
+    Fragezeichen52.classList.add('hide')
+    Wo052.classList.add('hide')
     Feld05.classList.add('Feld1')
     Text015.classList.remove('hide')
     Text025.classList.add('hide')
@@ -4411,6 +4919,8 @@ function loc06(){
     Feld06.classList.remove('hide')
     Seite06.classList.add('container')
     Fragezeichen6.classList.remove('hide')
+    Fragezeichen62.classList.add('hide')
+    Wo062.classList.add('hide')
     Feld06.classList.add('Feld1')
     Text016.classList.remove('hide')
     Text026.classList.add('hide')
@@ -4429,6 +4939,8 @@ function loc07(){
     Feld07.classList.remove('hide')
     Seite07.classList.add('container')
     Fragezeichen7.classList.remove('hide')
+    Fragezeichen72.classList.add('hide')
+    Wo072.classList.add('hide')
     Feld07.classList.add('Feld1')
     Text017.classList.remove('hide')
     Text027.classList.add('hide')
@@ -4450,6 +4962,8 @@ function loc08(){
     Feld08.classList.remove('hide')
     Seite08.classList.add('container')
     Fragezeichen8.classList.remove('hide')
+    Fragezeichen82.classList.add('hide')
+    Wo082.classList.add('hide')
     Feld08.classList.add('Feld1')
     Text018.classList.remove('hide')
     Text028.classList.add('hide')
@@ -4471,6 +4985,8 @@ function loc09(){
     Feld09.classList.remove('hide')
     Seite09.classList.add('container')
     Fragezeichen9.classList.remove('hide')
+    Fragezeichen92.classList.add('hide')
+    Wo092.classList.add('hide')
     Feld09.classList.add('Feld1')
     Text019.classList.remove('hide')
     Text029.classList.add('hide')
@@ -4489,6 +5005,8 @@ function loc010(){
     Feld010.classList.remove('hide')
     Seite010.classList.add('container')
     Fragezeichen10.classList.remove('hide')
+    Fragezeichen102.classList.add('hide')
+    Wo0102.classList.add('hide')
     Feld010.classList.add('Feld1')
     Text0110.classList.remove('hide')
     Text0210.classList.add('hide')
@@ -4505,6 +5023,8 @@ function loc011(){
     Feld011.classList.remove('hide')
     Seite011.classList.add('container')
     Fragezeichen11.classList.remove('hide')
+    Fragezeichen112.classList.add('hide')
+    Wo0112.classList.add('hide')
     Feld011.classList.add('Feld1')
     Text0111.classList.remove('hide')
     Text0211.classList.add('hide')
@@ -4523,6 +5043,8 @@ function loc012(){
     Feld012.classList.remove('hide')
     Seite012.classList.add('container')
     Fragezeichen12.classList.remove('hide')
+    Fragezeichen122.classList.add('hide')
+    Wo0122.classList.add('hide')
     Feld012.classList.add('Feld1')
     Text0112.classList.remove('hide')
     Text0212.classList.add('hide')
@@ -4538,6 +5060,8 @@ function loc013(){
     Feld013.classList.remove('hide')
     Seite013.classList.add('container')
     Fragezeichen13.classList.remove('hide')
+    Fragezeichen132.classList.add('hide')
+    Wo0132.classList.add('hide')
     Feld013.classList.add('Feld1')
     Text0113.classList.remove('hide')
     Text0213.classList.add('hide')
@@ -4553,6 +5077,8 @@ function loc014(){
     Feld014.classList.remove('hide')
     Seite014.classList.add('container')
     Fragezeichen14.classList.remove('hide')
+    Fragezeichen142.classList.add('hide')
+    Wo0142.classList.add('hide')
     Feld014.classList.add('Feld1')
     Text0114.classList.remove('hide')
     Text0214.classList.add('hide')
@@ -4578,6 +5104,7 @@ function Home2(){
     Wo02.classList.add('hide')
     Wo022.classList.add('hide')
     Fragezeichen2.classList.add('hide')
+    Fragezeichen22.classList.add('hide')
     Home02.classList.add('hide')
     weiter02.classList.add('hide')
     img2.classList.add('hide')
@@ -4591,6 +5118,7 @@ function Home3(){
     Wo03.classList.add('hide')
     Wo032.classList.add('hide')
     Fragezeichen3.classList.add('hide')
+    Fragezeichen32.classList.add('hide')
     Home03.classList.add('hide')
     weiter03.classList.add('hide')
     img3.classList.add('hide')
@@ -4604,6 +5132,7 @@ function Home4(){
     Wo04.classList.add('hide')
     Wo042.classList.add('hide')
     Fragezeichen4.classList.add('hide')
+    Fragezeichen42.classList.add('hide')
     Home04.classList.add('hide')
     weiter04.classList.add('hide')
     img4.classList.add('hide')
@@ -4617,6 +5146,7 @@ function Home5(){
     Wo05.classList.add('hide')
     Wo052.classList.add('hide')
     Fragezeichen5.classList.add('hide')
+    Fragezeichen52.classList.add('hide')
     Home05.classList.add('hide')
     weiter05.classList.add('hide')
     img5.classList.add('hide')
@@ -4630,6 +5160,7 @@ function Home6(){
     Wo06.classList.add('hide')
     Wo062.classList.add('hide')
     Fragezeichen6.classList.add('hide')
+    Fragezeichen62.classList.add('hide')
     Home06.classList.add('hide')
     weiter06.classList.add('hide')
     img6.classList.add('hide')
@@ -4643,6 +5174,7 @@ function Home7(){
     Wo07.classList.add('hide')
     Wo072.classList.add('hide')
     Fragezeichen7.classList.add('hide')
+    Fragezeichen72.classList.add('hide')
     Home07.classList.add('hide')
     weiter07.classList.add('hide')
     img7.classList.add('hide')
@@ -4656,6 +5188,7 @@ function Home8(){
     Wo08.classList.add('hide')
     Wo082.classList.add('hide')
     Fragezeichen8.classList.add('hide')
+    Fragezeichen82.classList.add('hide')
     Home08.classList.add('hide')
     weiter08.classList.add('hide')
     img8.classList.add('hide')
@@ -4667,7 +5200,9 @@ function Home9(){
     Feld09.classList.add('hide')
     Seite09.classList.remove('container')
     Wo09.classList.add('hide')
+    Wo092.classList.add('hide')
     Fragezeichen9.classList.add('hide')
+    Fragezeichen92.classList.add('hide')
     Home09.classList.add('hide')
     weiter09.classList.add('hide')
     img9.classList.add('hide')
@@ -4679,7 +5214,9 @@ function Home10(){
     Feld010.classList.add('hide')
     Seite010.classList.remove('container')
     Wo010.classList.add('hide')
+    Wo0102.classList.add('hide')
     Fragezeichen10.classList.add('hide')
+    Fragezeichen102.classList.add('hide')
     Home010.classList.add('hide')
     weiter010.classList.add('hide')
     img10.classList.add('hide')
@@ -4691,7 +5228,9 @@ function Home11(){
     Feld011.classList.add('hide')
     Seite011.classList.remove('container')
     Wo011.classList.add('hide')
+    Wo0112.classList.add('hide')
     Fragezeichen11.classList.add('hide')
+    Fragezeichen112.classList.add('hide')
     Home011.classList.add('hide')
     weiter011.classList.add('hide')
     img11.classList.add('hide')
@@ -4703,7 +5242,9 @@ function Home12(){
     Feld012.classList.add('hide')
     Seite012.classList.remove('container')
     Wo012.classList.add('hide')
+    Wo0122.classList.add('hide')
     Fragezeichen12.classList.add('hide')
+    Fragezeichen122.classList.add('hide')
     Home012.classList.add('hide')
     weiter012.classList.add('hide')
     img12.classList.add('hide')
@@ -4715,7 +5256,9 @@ function Home13(){
     Feld013.classList.add('hide')
     Seite013.classList.remove('container')
     Wo013.classList.add('hide')
+    Wo0132.classList.add('hide')
     Fragezeichen13.classList.add('hide')
+    Fragezeichen132.classList.add('hide')
     Home013.classList.add('hide')
     weiter013.classList.add('hide')
     img13.classList.add('hide')
@@ -4727,7 +5270,9 @@ function Home14(){
     Feld014.classList.add('hide')
     Seite014.classList.remove('container')
     Wo014.classList.add('hide')
+    Wo0142.classList.add('hide')
     Fragezeichen14.classList.add('hide')
+    Fragezeichen142.classList.add('hide')
     Home014.classList.add('hide')
     img14.classList.add('hide')
     Startseite01.classList.remove('hide')
@@ -4739,9 +5284,13 @@ function Home17(){
     Feld017.classList.add('hide')
     Seite017.classList.remove('container')
     Fragezeichen17.classList.add('hide')
+    Fragezeichen172.classList.add('hide')
+    Wo017.classList.add('hide')
+    Wo0172.classList.add('hide')
     Home017.classList.add('hide')
     Startseite01.classList.remove('hide')
     weiter017.classList.add('hide')
+
 }
 
 function Home18(){
@@ -4815,6 +5364,8 @@ function next42(){
     Wo02.classList.add('hide')
     Wo022.classList.remove('hide')
     weiter02.classList.remove('hide')
+    Fragezeichen2.classList.add('hide')
+    Fragezeichen22.classList.remove('hide')
 }
 
 function back32(){
@@ -4860,6 +5411,8 @@ function next23(){
     Wo03.classList.add('hide')
     Wo032.classList.remove('hide')
     weiter03.classList.remove('hide')
+    Fragezeichen3.classList.add('hide')
+    Fragezeichen32.classList.remove('hide')
 }
 
 function back23(){
@@ -4896,6 +5449,8 @@ function next24(){
     Wo04.classList.add('hide')
     Wo042.classList.remove('hide')
     weiter04.classList.remove('hide')
+    Fragezeichen4.classList.add('hide')
+    Fragezeichen42.classList.remove('hide')
 }
 
 function back24(){
@@ -4932,6 +5487,8 @@ function next25(){
     Wo05.classList.add('hide')
     Wo052.classList.remove('hide')
     weiter05.classList.remove('hide')
+    Fragezeichen5.classList.add('hide')
+    Fragezeichen52.classList.remove('hide')
 }
 
 function back25(){
@@ -4968,6 +5525,8 @@ function next26(){
     Wo06.classList.add('hide')
     Wo062.classList.remove('hide')
     weiter06.classList.remove('hide')
+    Fragezeichen6.classList.add('hide')
+    Fragezeichen62.classList.remove('hide')
 }
 
 function back26(){
@@ -5012,6 +5571,8 @@ function next37(){
     Wo07.classList.add('hide')
     Wo072.classList.remove('hide')
     weiter07.classList.remove('hide')
+    Fragezeichen7.classList.add('hide')
+    Fragezeichen72.classList.remove('hide')
 }
 
 function back27(){
@@ -5065,6 +5626,8 @@ function next38(){
     Wo08.classList.add('hide')
     Wo082.classList.remove('hide')
     weiter08.classList.remove('hide')
+    Fragezeichen8.classList.add('hide')
+    Fragezeichen82.classList.remove('hide')
 }
 
 function back28(){
@@ -5110,6 +5673,8 @@ function next29(){
     Wo09.classList.add('hide')
     Wo092.classList.remove('hide')
     weiter09.classList.remove('hide')
+    Fragezeichen9.classList.add('hide')
+    Fragezeichen92.classList.remove('hide')
 }
 
 function back29(){
@@ -5128,6 +5693,8 @@ function next110(){
     weiter010.classList.remove('hide')
     Wo010.classList.add('hide')
     Wo0102.classList.remove('hide')
+    Fragezeichen10.classList.add('hide')
+    Fragezeichen102.classList.remove('hide')
     }
     
 function back110(){
@@ -5163,6 +5730,8 @@ function next211(){
     Wo011.classList.add('hide')
     Wo0112.classList.remove('hide')
     weiter011.classList.remove('hide')
+    Fragezeichen11.classList.add('hide')
+    Fragezeichen112.classList.remove('hide')
 }
 
 function back211(){
@@ -5181,6 +5750,8 @@ function next112(){
     weiter012.classList.remove('hide')
     Wo012.classList.add('hide')
     Wo0122.classList.remove('hide')
+    Fragezeichen12.classList.add('hide')
+    Fragezeichen122.classList.remove('hide')
 }
     
 function back112(){
@@ -5199,6 +5770,8 @@ function next113(){
     weiter013.classList.remove('hide')
     Wo013.classList.add('hide')
     Wo0132.classList.remove('hide')
+    Fragezeichen13.classList.add('hide')
+    Fragezeichen132.classList.remove('hide')
     }
     
 function back113(){
@@ -5216,6 +5789,8 @@ function next114(){
     weiter014.classList.remove('hide')
     Wo014.classList.add('hide')
     Wo0142.classList.remove('hide')
+    Fragezeichen14.classList.add('hide')
+    Fragezeichen142.classList.remove('hide')
     }
     
 function back114(){
@@ -5231,6 +5806,10 @@ function next117(){
     Next0117.classList.add('hide')
     Back0117.classList.remove('hide')
     weiter017.classList.remove('hide')
+    Wo017.classList.add('hide')
+    Wo0172.classList.remove('hide')
+    Fragezeichen17.classList.add('hide')
+    Fragezeichen172.classList.remove('hide')
     }
     
 function back117(){
