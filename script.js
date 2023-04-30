@@ -71,6 +71,51 @@ Station014.addEventListener('click', Station14)
 const Station015= document.getElementById('Station15')
 Station015.addEventListener('click', Station15)
 
+const skip00= document.getElementById('skip0')
+skip00.addEventListener('click', skip0)
+
+const skip01= document.getElementById('skip1')
+skip01.addEventListener('click', skip1)
+
+const skip02= document.getElementById('skip2')
+skip02.addEventListener('click', skip2)
+
+const skip03= document.getElementById('skip3')
+skip03.addEventListener('click', skip3)
+
+const skip04= document.getElementById('skip4')
+skip04.addEventListener('click', skip4)
+
+const skip05= document.getElementById('skip5')
+skip05.addEventListener('click', skip5)
+
+const skip06= document.getElementById('skip6')
+skip06.addEventListener('click', skip6)
+
+const skip07= document.getElementById('skip7')
+skip07.addEventListener('click', skip7)
+
+const skip08= document.getElementById('skip8')
+skip08.addEventListener('click', skip8)
+
+const skip09= document.getElementById('skip9')
+skip09.addEventListener('click', skip9)
+
+const skip010= document.getElementById('skip10')
+skip010.addEventListener('click', skip10)
+
+const skip011= document.getElementById('skip11')
+skip011.addEventListener('click', skip11)
+
+const skip012= document.getElementById('skip12')
+skip012.addEventListener('click', skip12)
+
+const skip013= document.getElementById('skip13')
+skip013.addEventListener('click', skip13)
+
+const skip014= document.getElementById('skip14')
+skip014.addEventListener('click', skip14)
+
 const Loc1= document.getElementById('loc1')
 Loc1.addEventListener('click', loc01)
 
@@ -112,6 +157,22 @@ Loc13.addEventListener('click', loc013)
 
 const Loc14= document.getElementById('loc14')
 Loc14.addEventListener('click', loc014)
+
+const top01= document.getElementById('top1')
+const top02= document.getElementById('top2')
+const top03= document.getElementById('top3')
+const top04= document.getElementById('top4')
+const top05= document.getElementById('top5')
+const top06= document.getElementById('top6')
+const top07= document.getElementById('top7')
+const top08= document.getElementById('top8')
+const top09= document.getElementById('top9')
+const top010= document.getElementById('top10')
+const top011= document.getElementById('top11')
+const top012= document.getElementById('top12')
+const top013= document.getElementById('top13')
+const top014= document.getElementById('top14')
+const top017= document.getElementById('top17')
 
 const Video0= document.getElementById('vid0')
 const Video1= document.getElementById('vid1')
@@ -1506,77 +1567,404 @@ const Video00= document.getElementById('vid00')
     Next0117.classList.remove('hide')
     Back0117.classList.add('hide')
     Wo017.classList.remove('hide')
+    skip00.classList.add('hide')
 })
 
 const Video01= document.getElementById('vid01')
     Video01.addEventListener('ended', function(e){
     Loc1.classList.remove('hide')
+    skip01.classList.add('hide')
 })
 
 const Video02= document.getElementById('vid02')
     Video02.addEventListener('ended', function(e){
     Loc2.classList.remove('hide')
+    skip02.classList.add('hide')
 })
 
 const Video03= document.getElementById('vid03')
     Video03.addEventListener('ended', function(e){
     Loc3.classList.remove('hide')
+    skip03.classList.add('hide')
 })
 
 const Video04= document.getElementById('vid04')
     Video04.addEventListener('ended', function(e){
     Loc4.classList.remove('hide')
+    skip04.classList.add('hide')
 })
 
 const Video05= document.getElementById('vid05')
     Video05.addEventListener('ended', function(e){
     Loc5.classList.remove('hide')
+    skip05.classList.add('hide')
 })
 
 const Video06= document.getElementById('vid06')
     Video06.addEventListener('ended', function(e){
     Loc6.classList.remove('hide')
+    skip06.classList.add('hide')
 })
 
 const Video07= document.getElementById('vid07')
     Video07.addEventListener('ended', function(e){
     Loc7.classList.remove('hide')
+    skip07.classList.add('hide')
 })
 
 const Video08= document.getElementById('vid08')
     Video08.addEventListener('ended', function(e){
     Loc8.classList.remove('hide')
+    skip08.classList.add('hide')
 })
 
 const Video09= document.getElementById('vid09')
     Video09.addEventListener('ended', function(e){
     Loc9.classList.remove('hide')
+    skip09.classList.add('hide')
 })
 
 const Video010= document.getElementById('vid010')
     Video010.addEventListener('ended', function(e){
     Loc10.classList.remove('hide')
+    skip010.classList.add('hide')
 })
 
 const Video011= document.getElementById('vid011')
     Video011.addEventListener('ended', function(e){
     Loc11.classList.remove('hide')
+    skip011.classList.add('hide')
 })
 
 const Video012= document.getElementById('vid012')
     Video012.addEventListener('ended', function(e){
     Loc12.classList.remove('hide')
+    skip012.classList.add('hide')
 })
 
 const Video013= document.getElementById('vid013')
     Video013.addEventListener('ended', function(e){
     Loc13.classList.remove('hide')
+    skip013.classList.add('hide')
 })
 
 const Video014= document.getElementById('vid014')
     Video014.addEventListener('ended', function(e){
     Loc14.classList.remove('hide')
+    skip014.classList.add('hide')
 })
+
+var Videoo = document.getElementById("vid00");
+
+function skip0(){
+    console.log(Videoo.duration);
+	Videoo.play();
+	Videoo.pause();
+	Videoo.currentTime = Videoo.duration;
+    Video0.classList.add('hide')
+    Home017.classList.remove('hide')
+    Feld017.classList.remove('hide')
+    Seite017.classList.add('container')
+    Fragezeichen17.classList.remove('hide')
+    Fragezeichen172.classList.add('hide')
+    Feld017.classList.add('Feld1')
+    Text0117.classList.remove('hide')
+    Text0217.classList.add('hide')
+    Next0117.classList.remove('hide')
+    Back0117.classList.add('hide')
+    Wo017.classList.remove('hide')
+    Wo0172.classList.add('hide')
+    skip00.classList.add('hide')
+}
+
+
+function skip1(){
+    Video1.classList.add('hide')
+    Feld01.classList.remove('hide')
+    Wo01.classList.remove('hide')
+    Fragezeichen.classList.remove('hide')
+    weiter01.classList.remove('hide')
+    Home01.classList.remove('hide')
+    img1.classList.remove('hide')
+    Feld01.classList.add('Feld1')
+    Text01.classList.remove('hide') 
+    skip01.classList.add('hide')
+}
+
+
+function skip2(){
+    Video2.classList.add('hide')
+    Wo02.classList.remove('hide')
+    Home02.classList.remove('hide')
+    img2.classList.remove('hide')
+    Feld02.classList.remove('hide')
+    Seite02.classList.add('container')
+    Fragezeichen2.classList.remove('hide')
+    Fragezeichen22.classList.add('hide')
+    Wo022.classList.add('hide')
+    Feld02.classList.add('Feld1')
+    Text012.classList.remove('hide')
+    Text022.classList.add('hide')
+    Text032.classList.add('hide')
+    Text042.classList.add('hide')
+    Text052.classList.add('hide')
+    Next012.classList.remove('hide')
+    Next022.classList.add('hide')
+    Next032.classList.add('hide')
+    Next042.classList.add('hide')
+    Back012.classList.add('hide')
+    Back022.classList.add('hide')
+    Back032.classList.add('hide')
+    Back042.classList.add('hide')
+}
+
+
+function skip3(){
+    Video3.classList.add('hide')
+    skip03.classList.add('hide')
+    Wo03.classList.remove('hide')
+    Home03.classList.remove('hide')
+    img3.classList.remove('hide')
+    Feld03.classList.remove('hide')
+    Seite03.classList.add('container')
+    Fragezeichen3.classList.remove('hide')
+    Fragezeichen32.classList.add('hide')
+    Wo032.classList.add('hide')
+    Feld03.classList.add('Feld1')
+    Text013.classList.remove('hide')
+    Text023.classList.add('hide')
+    Text033.classList.add('hide')
+    Next013.classList.remove('hide')
+    Next023.classList.add('hide')
+    Back013.classList.add('hide')
+    Back023.classList.add('hide')
+}
+
+function skip4(){
+    Video4.classList.add('hide')
+    skip04.classList.add('hide')
+    Wo04.classList.remove('hide')
+    Home04.classList.remove('hide')
+    img4.classList.remove('hide')
+    Feld04.classList.remove('hide')
+    Seite04.classList.add('container')
+    Fragezeichen4.classList.remove('hide')
+    Fragezeichen42.classList.add('hide')
+    Wo042.classList.add('hide')
+    Feld04.classList.add('Feld1')
+    Text014.classList.remove('hide')
+    Text024.classList.add('hide')
+    Text034.classList.add('hide')
+    Next014.classList.remove('hide')
+    Next024.classList.add('hide')
+    Back014.classList.add('hide')
+    Back024.classList.add('hide')
+}
+
+function skip5(){
+    Video5.classList.add('hide')
+    skip05.classList.add('hide')
+    Wo05.classList.remove('hide')
+    Home05.classList.remove('hide')
+    img5.classList.remove('hide')
+    Feld05.classList.remove('hide')
+    Seite05.classList.add('container')
+    Fragezeichen5.classList.remove('hide')
+    Fragezeichen52.classList.add('hide')
+    Wo052.classList.add('hide')
+    Feld05.classList.add('Feld1')
+    Text015.classList.remove('hide')
+    Text025.classList.add('hide')
+    Text035.classList.add('hide')
+    Next015.classList.remove('hide')
+    Next025.classList.add('hide')
+    Back015.classList.add('hide')
+    Back025.classList.add('hide')
+}
+
+function skip6(){
+    Video6.classList.add('hide')
+    Wo06.classList.remove('hide')
+    skip06.classList.add('hide')
+    Home06.classList.remove('hide')
+    img6.classList.remove('hide')
+    Feld06.classList.remove('hide')
+    Seite06.classList.add('container')
+    Fragezeichen6.classList.remove('hide')
+    Fragezeichen62.classList.add('hide')
+    Wo062.classList.add('hide')
+    Feld06.classList.add('Feld1')
+    Text016.classList.remove('hide')
+    Text026.classList.add('hide')
+    Text036.classList.add('hide')
+    Next016.classList.remove('hide')
+    Next026.classList.add('hide')
+    Back016.classList.add('hide')
+    Back026.classList.add('hide')
+}
+
+function skip7(){
+    Video7.classList.add('hide')
+    skip07.classList.add('hide')
+    Wo07.classList.remove('hide')
+    Home07.classList.remove('hide')
+    img7.classList.remove('hide')
+    Feld07.classList.remove('hide')
+    Seite07.classList.add('container')
+    Fragezeichen7.classList.remove('hide')
+    Fragezeichen72.classList.add('hide')
+    Wo072.classList.add('hide')
+    Feld07.classList.add('Feld1')
+    Text017.classList.remove('hide')
+    Text027.classList.add('hide')
+    Text037.classList.add('hide')
+    Text047.classList.add('hide')
+    Next017.classList.remove('hide')
+    Next027.classList.add('hide')
+    Next037.classList.add('hide')
+    Back017.classList.add('hide')
+    Back027.classList.add('hide')
+    Back037.classList.add('hide')
+}
+
+function skip8(){
+    Video8.classList.add('hide')
+    skip08.classList.add('hide')
+    Wo08.classList.remove('hide')
+    Home08.classList.remove('hide')
+    img8.classList.remove('hide')
+    Feld08.classList.remove('hide')
+    Seite08.classList.add('container')
+    Fragezeichen8.classList.remove('hide')
+    Fragezeichen82.classList.add('hide')
+    Wo082.classList.add('hide')
+    Feld08.classList.add('Feld1')
+    Text018.classList.remove('hide')
+    Text028.classList.add('hide')
+    Text038.classList.add('hide')
+    Text048.classList.add('hide')
+    Next018.classList.remove('hide')
+    Next028.classList.add('hide')
+    Next038.classList.add('hide')
+    Back018.classList.add('hide')
+    Back028.classList.add('hide')
+    Back038.classList.add('hide')
+}
+
+function skip9(){
+    Video9.classList.add('hide')
+    skip09.classList.add('hide')
+    Wo09.classList.remove('hide')
+    Home09.classList.remove('hide')
+    img9.classList.remove('hide')
+    Feld09.classList.remove('hide')
+    Seite09.classList.add('container')
+    Fragezeichen9.classList.remove('hide')
+    Fragezeichen92.classList.add('hide')
+    Wo092.classList.add('hide')
+    Feld09.classList.add('Feld1')
+    Text019.classList.remove('hide')
+    Text029.classList.add('hide')
+    Text039.classList.add('hide')
+    Next019.classList.remove('hide')
+    Next029.classList.add('hide')
+    Back019.classList.add('hide')
+    Back029.classList.add('hide')
+}
+
+function skip10(){
+    skip010.classList.add('hide')
+    Video10.classList.add('hide')
+    Wo010.classList.remove('hide')
+    Home010.classList.remove('hide')
+    img10.classList.remove('hide')
+    Feld010.classList.remove('hide')
+    Seite010.classList.add('container')
+    Fragezeichen10.classList.remove('hide')
+    Fragezeichen102.classList.add('hide')
+    Wo0102.classList.add('hide')
+    Feld010.classList.add('Feld1')
+    Text0110.classList.remove('hide')
+    Text0210.classList.add('hide')
+    Next0110.classList.remove('hide')
+    Back0110.classList.add('hide')
+
+}
+
+function skip11(){
+    Video11.classList.add('hide')
+    skip011.classList.add('hide')
+    Wo011.classList.remove('hide')
+    Home011.classList.remove('hide')
+    img11.classList.remove('hide')
+    Feld011.classList.remove('hide')
+    Seite011.classList.add('container')
+    Fragezeichen11.classList.remove('hide')
+    Fragezeichen112.classList.add('hide')
+    Wo0112.classList.add('hide')
+    Feld011.classList.add('Feld1')
+    Text0111.classList.remove('hide')
+    Text0211.classList.add('hide')
+    Text0311.classList.add('hide')
+    Next0111.classList.remove('hide')
+    Next0211.classList.add('hide')
+    Back0111.classList.add('hide')
+    Back0211.classList.add('hide')
+}
+
+function skip12(){
+    Video12.classList.add('hide')
+    skip012.classList.add('hide')
+    Wo012.classList.remove('hide')
+    Home012.classList.remove('hide')
+    img12.classList.remove('hide')
+    Feld012.classList.remove('hide')
+    Seite012.classList.add('container')
+    Fragezeichen12.classList.remove('hide')
+    Fragezeichen122.classList.add('hide')
+    Wo0122.classList.add('hide')
+    Feld012.classList.add('Feld1')
+    Text0112.classList.remove('hide')
+    Text0212.classList.add('hide')
+    Next0112.classList.remove('hide')
+    Back0112.classList.add('hide')
+}
+
+function skip13(){
+    Video13.classList.add('hide')
+    skip013.classList.add('hide')
+    Wo013.classList.remove('hide')
+    Home013.classList.remove('hide')
+    img13.classList.remove('hide')
+    Feld013.classList.remove('hide')
+    Seite013.classList.add('container')
+    Fragezeichen13.classList.remove('hide')
+    Fragezeichen132.classList.add('hide')
+    Wo0132.classList.add('hide')
+    Feld013.classList.add('Feld1')
+    Text0113.classList.remove('hide')
+    Text0213.classList.add('hide')
+    Next0113.classList.remove('hide')
+    Back0113.classList.add('hide')
+}
+
+function skip14(){
+    Video14.classList.add('hide')
+    skip014.classList.add('hide')
+    Wo014.classList.remove('hide')
+    Home014.classList.remove('hide')
+    img14.classList.remove('hide')
+    Feld014.classList.remove('hide')
+    Seite014.classList.add('container')
+    Fragezeichen14.classList.remove('hide')
+    Fragezeichen142.classList.add('hide')
+    Wo0142.classList.add('hide')
+    Feld014.classList.add('Feld1')
+    Text0114.classList.remove('hide')
+    Text0214.classList.add('hide')
+    Next0114.classList.remove('hide')
+    Back0114.classList.add('hide')
+}
 
 function diarechts11(){
     dia11.classList.add('hide')
@@ -2857,12 +3245,18 @@ function dialinks1712(){
 
 function Station1(){
     Video00.play()
+    Video00.currentTime = 0
+    skip00.classList.remove('hide')
     Video0.classList.remove('hide')
     STfeld.classList.add('hide')
+    Fragezeichen172.classList.add('hide')
+    Wo0172.classList.add('hide')
 }
 
 function Station2(){
     Video01.play()
+    Video01.currentTime = 0
+    skip01.classList.remove('hide')
     Video1.classList.remove('hide')
     Loc1.classList.add('hide')
     STfeld.classList.add('hide')
@@ -2870,6 +3264,8 @@ function Station2(){
 
 function Station3(){
     Video02.play()
+    Video02.currentTime = 0
+    skip02.classList.remove('hide')
     Video2.classList.remove('hide')
     Loc2.classList.add('hide')
     STfeld.classList.add('hide')
@@ -2877,6 +3273,8 @@ function Station3(){
 
 function Station4(){
     Video03.play()
+    Video03.currentTime = 0
+    skip03.classList.remove('hide')
     Video3.classList.remove('hide')
     Loc3.classList.add('hide')
     STfeld.classList.add('hide')
@@ -2884,6 +3282,8 @@ function Station4(){
 
 function Station5(){
     Video04.play()
+    Video04.currentTime = 0
+    skip04.classList.remove('hide')
     Video4.classList.remove('hide')
     STfeld.classList.add('hide')
     Loc4.classList.add('hide')
@@ -2891,6 +3291,8 @@ function Station5(){
 
 function Station6(){
     Video05.play()
+    Video05.currentTime = 0
+    skip05.classList.remove('hide')
     Video5.classList.remove('hide')
     STfeld.classList.add('hide')
     Loc5.classList.add('hide')
@@ -2898,6 +3300,8 @@ function Station6(){
 
 function Station7(){
     Video06.play()
+    Video06.currentTime = 0
+    skip06.classList.remove('hide')
     Video6.classList.remove('hide')
     STfeld.classList.add('hide')
     Loc6.classList.add('hide')
@@ -2905,6 +3309,8 @@ function Station7(){
 
 function Station8(){
     Video07.play()
+    Video07.currentTime = 0
+    skip07.classList.remove('hide')
     Video7.classList.remove('hide')
     STfeld.classList.add('hide')
     Loc7.classList.add('hide')
@@ -2912,6 +3318,8 @@ function Station8(){
 
 function Station9(){
     Video08.play()
+    Video08.currentTime = 0
+    skip08.classList.remove('hide')
     Video8.classList.remove('hide')
     STfeld.classList.add('hide')
     Loc8.classList.add('hide')
@@ -2919,6 +3327,8 @@ function Station9(){
 
 function Station10(){
     Video09.play()
+    Video09.currentTime = 0
+    skip09.classList.remove('hide')
     Video9.classList.remove('hide')
     STfeld.classList.add('hide')
     Loc9.classList.add('hide')
@@ -2926,6 +3336,8 @@ function Station10(){
 
 function Station11(){
     Video010.play()
+    Video010.currentTime = 0
+    skip010.classList.remove('hide')
     Video10.classList.remove('hide')
     STfeld.classList.add('hide')
     Loc10.classList.add('hide')
@@ -2933,6 +3345,8 @@ function Station11(){
 
 function Station12(){
     Video011.play()
+    Video012.currentTime = 0
+    skip011.classList.remove('hide')
     Video11.classList.remove('hide')
     STfeld.classList.add('hide')
     Loc11.classList.add('hide')
@@ -2940,6 +3354,8 @@ function Station12(){
 
 function Station13(){
     Video012.play()
+    Video012.currentTime = 0
+    skip012.classList.remove('hide')
     Video12.classList.remove('hide')
     STfeld.classList.add('hide')
     Loc12.classList.add('hide')
@@ -2947,6 +3363,8 @@ function Station13(){
 
 function Station14(){
     Video013.play()
+    Video013.currentTime = 0
+    skip013.classList.remove('hide')
     Video13.classList.remove('hide')
     STfeld.classList.add('hide')
     Loc13.classList.add('hide')
@@ -2954,6 +3372,8 @@ function Station14(){
 
 function Station15(){
     Video014.play()
+    Video014.currentTime = 0
+    skip014.classList.remove('hide')
     Video14.classList.remove('hide')
     STfeld.classList.add('hide')
     Loc14.classList.add('hide')
@@ -2962,6 +3382,8 @@ function Station15(){
 function start(){
     Startseite01.classList.add('hide')
     Video01.play()
+    Video01.currentTime = 0
+    skip01.classList.remove('hide')
     Video1.classList.remove('hide')
     Video1.classList.add('center')
     Loc1.classList.add('hide')
@@ -2970,8 +3392,12 @@ function start(){
 function Einleitung(){
     Startseite01.classList.add('hide')
     Video00.play()
+    skip00.classList.remove('hide')
+    Video00.currentTime=0;
     Video0.classList.remove('hide')
     Video0.classList.add('center')
+    Fragezeichen12.classList.add('hide')
+    Wo0172.classList.add('hide')
 }
 
 function Information(){
@@ -3011,6 +3437,8 @@ function Statzuruck(){
 
 function zuruck01(){
     Feld01.classList.remove('hide')
+    top01.classList.add('top')
+    top01.classList.remove('top1')
     Wo01.classList.remove('hide')
     Fragezeichen.classList.remove('hide')
     Home01.classList.remove('hide')
@@ -3025,6 +3453,8 @@ function zuruck01(){
 function zuruck02(){
     Feld02.classList.remove('hide')
     Wo02.classList.remove('hide')
+    top02.classList.add('top')
+    top02.classList.remove('top1')
     Fragezeichen2.classList.remove('hide')
     Home02.classList.remove('hide')
     img2.classList.remove('hide')
@@ -3037,6 +3467,8 @@ function zuruck022(){
     Feld02.classList.remove('hide')
     Wo022.classList.remove('hide')
     Fragezeichen22.classList.remove('hide')
+    top02.classList.add('top')
+    top02.classList.remove('top1')
     Home02.classList.remove('hide')
     img2.classList.remove('hide')
     Karte02.classList.add('hide')
@@ -3049,6 +3481,8 @@ function zuruck03(){
     Feld03.classList.remove('hide')
     img3.classList.remove('hide')
     Wo03.classList.remove('hide')
+    top03.classList.add('top')
+    top03.classList.remove('top1')
     Fragezeichen3.classList.remove('hide')
     Home03.classList.remove('hide')
     Karte03.classList.add('hide')
@@ -3060,6 +3494,8 @@ function zuruck032(){
     Feld03.classList.remove('hide')
     img3.classList.remove('hide')
     Wo032.classList.remove('hide')
+    top03.classList.add('top')
+    top03.classList.remove('top1')
     Fragezeichen32.classList.remove('hide')
     Home03.classList.remove('hide')
     Karte03.classList.add('hide')
@@ -3073,6 +3509,8 @@ function zuruck04(){
     img4.classList.remove('hide')
     Wo04.classList.remove('hide')
     Fragezeichen4.classList.remove('hide')
+    top04.classList.add('top')
+    top04.classList.remove('top1')
     Home04.classList.remove('hide')
     Karte04.classList.add('hide')
     Zuruck04.classList.add('hide')
@@ -3084,6 +3522,8 @@ function zuruck042(){
     img4.classList.remove('hide')
     Wo042.classList.remove('hide')
     Fragezeichen42.classList.remove('hide')
+    top04.classList.add('top')
+    top04.classList.remove('top1')
     Home04.classList.remove('hide')
     Karte04.classList.add('hide')
     Zuruck042.classList.add('hide')
@@ -3096,6 +3536,8 @@ function zuruck05(){
     img5.classList.remove('hide')
     Wo05.classList.remove('hide')
     Fragezeichen5.classList.remove('hide')
+    top05.classList.add('top')
+    top05.classList.remove('top1')
     Home05.classList.remove('hide')
     Karte05.classList.add('hide')
     Zuruck05.classList.add('hide')
@@ -3108,6 +3550,8 @@ function zuruck052(){
     Wo052.classList.remove('hide')
     Fragezeichen52.classList.remove('hide')
     Home05.classList.remove('hide')
+    top05.classList.add('top')
+    top05.classList.remove('top1')
     Karte05.classList.add('hide')
     Zuruck052.classList.add('hide')
     weiter05.classList.remove('hide')
@@ -3119,6 +3563,8 @@ function zuruck06(){
     img6.classList.remove('hide')
     Wo06.classList.remove('hide')
     Fragezeichen6.classList.remove('hide')
+    top06.classList.add('top')
+    top06.classList.remove('top1')
     Home06.classList.remove('hide')
     Karte06.classList.add('hide')
     Zuruck06.classList.add('hide')
@@ -3130,6 +3576,8 @@ function zuruck062(){
     img6.classList.remove('hide')
     Wo062.classList.remove('hide')
     Fragezeichen62.classList.remove('hide')
+    top06.classList.add('top')
+    top06.classList.remove('top1')
     Home06.classList.remove('hide')
     Karte06.classList.add('hide')
     Zuruck062.classList.add('hide')
@@ -3142,6 +3590,8 @@ function zuruck07(){
     img7.classList.remove('hide')
     Wo07.classList.remove('hide')
     Fragezeichen7.classList.remove('hide')
+    top07.classList.add('top')
+    top07.classList.remove('top1')
     Home07.classList.remove('hide')
     Karte07.classList.add('hide')
     Zuruck07.classList.add('hide')
@@ -3153,6 +3603,8 @@ function zuruck072(){
     img7.classList.remove('hide')
     Wo072.classList.remove('hide')
     Fragezeichen72.classList.remove('hide')
+    top07.classList.add('top')
+    top07.classList.remove('top1')
     Home07.classList.remove('hide')
     Karte07.classList.add('hide')
     Zuruck072.classList.add('hide')
@@ -3165,6 +3617,8 @@ function zuruck08(){
     img8.classList.remove('hide')
     Wo08.classList.remove('hide')
     Fragezeichen8.classList.remove('hide')
+    top08.classList.add('top')
+    top08.classList.remove('top1')
     Home08.classList.remove('hide')
     Karte08.classList.add('hide')
     Zuruck08.classList.add('hide')
@@ -3175,7 +3629,8 @@ function zuruck082(){
     Feld08.classList.remove('hide')
     img8.classList.remove('hide')
     Wo082.classList.remove('hide')
-    Fragezeichen82.classList.remove('hide')
+    top08.classList.add('top')
+    top08.classList.remove('top1')    
     Home08.classList.remove('hide')
     Karte08.classList.add('hide')
     Zuruck082.classList.add('hide')
@@ -3188,6 +3643,8 @@ function zuruck09(){
     img9.classList.remove('hide')
     Wo09.classList.remove('hide')
     Fragezeichen9.classList.remove('hide')
+    top09.classList.add('top')
+    top09.classList.remove('top1')
     Home09.classList.remove('hide')
     Karte09.classList.add('hide')
     Zuruck09.classList.add('hide')
@@ -3199,6 +3656,8 @@ function zuruck092(){
     img9.classList.remove('hide')
     Wo092.classList.remove('hide')
     Fragezeichen92.classList.remove('hide')
+    top09.classList.add('top')
+    top09.classList.remove('top1')
     Home09.classList.remove('hide')
     Karte09.classList.add('hide')
     Zuruck092.classList.add('hide')
@@ -3211,6 +3670,8 @@ function zuruck010(){
     img10.classList.remove('hide')
     Wo010.classList.remove('hide')
     Fragezeichen10.classList.remove('hide')
+    top010.classList.add('top')
+    top010.classList.remove('top1')
     Home010.classList.remove('hide')
     Karte010.classList.add('hide')
     Zuruck010.classList.add('hide')
@@ -3222,6 +3683,8 @@ function zuruck0102(){
     img10.classList.remove('hide')
     Wo0102.classList.remove('hide')
     Fragezeichen102.classList.remove('hide')
+    top010.classList.add('top')
+    top010.classList.remove('top1')
     Home010.classList.remove('hide')
     Karte010.classList.add('hide')
     Zuruck0102.classList.add('hide')
@@ -3234,6 +3697,8 @@ function zuruck011(){
     img11.classList.remove('hide')
     Wo011.classList.remove('hide')
     Fragezeichen11.classList.remove('hide')
+    top011.classList.add('top')
+    top011.classList.remove('top1')
     Home011.classList.remove('hide')
     Karte011.classList.add('hide')
     Zuruck011.classList.add('hide')
@@ -3245,6 +3710,8 @@ function zuruck0112(){
     img11.classList.remove('hide')
     Wo0112.classList.remove('hide')
     Fragezeichen112.classList.remove('hide')
+    top011.classList.add('top')
+    top011.classList.remove('top1')
     Home011.classList.remove('hide')
     Karte011.classList.add('hide')
     Zuruck0112.classList.add('hide')
@@ -3257,6 +3724,8 @@ function zuruck012(){
     img12.classList.remove('hide')
     Wo012.classList.remove('hide')
     Fragezeichen12.classList.remove('hide')
+    top012.classList.add('top')
+    top012.classList.remove('top1')
     Home012.classList.remove('hide')
     Karte012.classList.add('hide')
     Zuruck012.classList.add('hide')
@@ -3268,6 +3737,8 @@ function zuruck0122(){
     img12.classList.remove('hide')
     Wo0122.classList.remove('hide')
     Fragezeichen122.classList.remove('hide')
+    top012.classList.add('top')
+    top012.classList.remove('top1')
     Home012.classList.remove('hide')
     Karte012.classList.add('hide')
     Zuruck0122.classList.add('hide')
@@ -3280,6 +3751,8 @@ function zuruck013(){
     img13.classList.remove('hide')
     Wo013.classList.remove('hide')
     Fragezeichen13.classList.remove('hide')
+    top013.classList.add('top')
+    top013.classList.remove('top1')
     Home013.classList.remove('hide')
     Karte013.classList.add('hide')
     Zuruck013.classList.add('hide')
@@ -3291,6 +3764,8 @@ function zuruck0132(){
     img13.classList.remove('hide')
     Wo0132.classList.remove('hide')
     Fragezeichen132.classList.remove('hide')
+    top013.classList.add('top')
+    top013.classList.remove('top1')
     Home013.classList.remove('hide')
     Karte013.classList.add('hide')
     Zuruck0132.classList.add('hide')
@@ -3303,6 +3778,8 @@ function zuruck014(){
     img14.classList.remove('hide')
     Wo014.classList.remove('hide')
     Fragezeichen14.classList.remove('hide')
+    top014.classList.add('top')
+    top014.classList.remove('top1')
     Home014.classList.remove('hide')
     Karte014.classList.add('hide')
     Zuruck014.classList.add('hide')
@@ -3314,6 +3791,8 @@ function zuruck0142(){
     img14.classList.remove('hide')
     Wo0142.classList.remove('hide')
     Fragezeichen142.classList.remove('hide')
+    top014.classList.add('top')
+    top014.classList.remove('top1')
     Home014.classList.remove('hide')
     Karte014.classList.add('hide')
     Zuruck0142.classList.add('hide')
@@ -3325,6 +3804,8 @@ function zuruck017(){
     Feld017.classList.remove('hide')
     Wo017.classList.remove('hide')
     Fragezeichen17.classList.remove('hide')
+    top017.classList.add('top')
+    top017.classList.remove('top1')
     Home017.classList.remove('hide')
     Karte017.classList.add('hide')
     Zuruck017.classList.add('hide')
@@ -3335,6 +3816,8 @@ function zuruck0172(){
     Feld017.classList.remove('hide')
     Wo0172.classList.remove('hide')
     Fragezeichen172.classList.remove('hide')
+    top017.classList.add('top')
+    top017.classList.remove('top1')
     Home017.classList.remove('hide')
     Karte017.classList.add('hide')
     Zuruck0172.classList.add('hide')
@@ -3346,8 +3829,10 @@ function zuruck0172(){
 
 function weiter1(){
     Video02.play()
+    Video02.currentTime = 0
     Feld01.classList.add('hide')
     Feld01.classList.remove('Feld1')
+    skip02.classList.remove('hide')
     Home01.classList.add('hide')
     img1.classList.add('hide')
     Wo01.classList.add('hide')
@@ -3361,112 +3846,144 @@ function weiter1(){
 function weiter2(){
     Feld02.classList.add('hide')
     Feld02.classList.remove('Feld1')
+    skip03.classList.remove('hide')
     Home02.classList.add('hide')
     img2.classList.add('hide')
     Wo02.classList.add('hide')
     Fragezeichen2.classList.add('hide')
+    Wo022.classList.add('hide')
+    Fragezeichen22.classList.add('hide')
     weiter02.classList.add('hide')
     Video3.classList.remove('hide')
     Loc3.classList.add('hide')
     Video03.play()
+    Video03.currentTime = 0
     Seite02.classList.remove('container')
 }
 
 function weiter3(){
     Feld03.classList.add('hide')
     Feld03.classList.remove('Feld1')
+    skip04.classList.remove('hide')
     Home03.classList.add('hide')
     img3.classList.add('hide')
     Wo03.classList.add('hide')
     Fragezeichen3.classList.add('hide')
+    Wo032.classList.add('hide')
+    Fragezeichen32.classList.add('hide')
     weiter03.classList.add('hide')
     Video4.classList.remove('hide')
     Loc4.classList.add('hide')
     Video04.play()
+    Video04.currentTime = 0
     Seite03.classList.remove('container')
 }
 
 function weiter4(){
     Feld04.classList.add('hide')
     Feld04.classList.remove('Feld1')
+    skip05.classList.remove('hide')
     Home04.classList.add('hide')
     img4.classList.add('hide')
     Wo04.classList.add('hide')
     Fragezeichen4.classList.add('hide')
+    Wo042.classList.add('hide')
+    Fragezeichen42.classList.add('hide')
     weiter04.classList.add('hide')
     Video5.classList.remove('hide')
     Loc5.classList.add('hide')
     Video05.play()
+    Video05.currentTime = 0
     Seite04.classList.remove('container')
 }
 
 function weiter5(){
     Feld05.classList.add('hide')
     Feld05.classList.remove('Feld1')
+    skip06.classList.remove('hide')
     Home05.classList.add('hide')
     img5.classList.add('hide')
     Wo05.classList.add('hide')
     Fragezeichen5.classList.add('hide')
+    Wo052.classList.add('hide')
+    Fragezeichen52.classList.add('hide')
     weiter05.classList.add('hide')
     Video6.classList.remove('hide')
     Loc6.classList.add('hide')
     Video06.play()
+    Video06.currentTime = 0
     Seite05.classList.remove('container')
 }
 
 function weiter6(){
     Feld06.classList.add('hide')
     Feld06.classList.remove('Feld1')
+    skip07.classList.remove('hide')
     Home06.classList.add('hide')
     img6.classList.add('hide')
     Wo06.classList.add('hide')
     Fragezeichen6.classList.add('hide')
+    Wo062.classList.add('hide')
+    Fragezeichen62.classList.add('hide')
     weiter06.classList.add('hide')
     Video7.classList.remove('hide')
     Loc7.classList.add('hide')
     Video07.play()
+    Video07.currentTime = 0
     Seite06.classList.remove('container')
 }
 
 function weiter7(){
     Feld07.classList.add('hide')
     Feld07.classList.remove('Feld1')
+    skip08.classList.remove('hide')
     Home07.classList.add('hide')
     img7.classList.add('hide')
     Wo07.classList.add('hide')
     Fragezeichen7.classList.add('hide')
+    Wo072.classList.add('hide')
+    Fragezeichen72.classList.add('hide')
     weiter07.classList.add('hide')
     Video8.classList.remove('hide')
     Loc8.classList.add('hide')
     Video08.play()
+    Video08.currentTime = 0
     Seite07.classList.remove('container')
 }
 
 function weiter8(){
     Feld08.classList.add('hide')
     Feld08.classList.remove('Feld1')
+    skip09.classList.remove('hide')
     Home08.classList.add('hide')
     img8.classList.add('hide')
     Wo08.classList.add('hide')
     Fragezeichen8.classList.add('hide')
+    Wo082.classList.add('hide')
+    Fragezeichen82.classList.add('hide')
     weiter08.classList.add('hide')
     Video9.classList.remove('hide')
     Loc9.classList.add('hide')
     Video09.play()
+    Video09.currentTime = 0
     Seite08.classList.remove('container')
 }
 
 function weiter9(){
     Feld09.classList.add('hide')
     Feld09.classList.remove('Feld1')
+    skip010.classList.remove('hide')
     Home09.classList.add('hide')
     img9.classList.add('hide')
     Wo09.classList.add('hide')
     Fragezeichen9.classList.add('hide')
+    Wo092.classList.add('hide')
+    Fragezeichen92.classList.add('hide')
     weiter09.classList.add('hide')
     Video10.classList.remove('hide')
     Loc10.classList.add('hide')
     Video010.play()
+    Video010.currentTime = 0
     Seite09.classList.remove('container')
 }
 
@@ -3477,10 +3994,14 @@ function weiter10(){
     img10.classList.add('hide')
     Wo010.classList.add('hide')
     Fragezeichen10.classList.add('hide')
+    Wo0102.classList.add('hide')
+    Fragezeichen102.classList.add('hide')
     weiter010.classList.add('hide')
     Video11.classList.remove('hide')
     Loc11.classList.add('hide')
     Video011.play()
+    Video011.currentTime = 0
+    skip011.classList.remove('hide')
     Seite010.classList.remove('container')
 }
 
@@ -3491,10 +4012,14 @@ function weiter11(){
     img11.classList.add('hide')
     Wo011.classList.add('hide')
     Fragezeichen11.classList.add('hide')
+    Wo0112.classList.add('hide')
+    Fragezeichen112.classList.add('hide')
     weiter011.classList.add('hide')
     Video12.classList.remove('hide')
     Loc12.classList.add('hide')
     Video012.play()
+    Video012.currentTime = 0
+    skip012.classList.remove('hide')
     Seite011.classList.remove('container')
 }
 
@@ -3505,10 +4030,14 @@ function weiter12(){
     img12.classList.add('hide')
     Wo012.classList.add('hide')
     Fragezeichen12.classList.add('hide')
+    Wo0122.classList.add('hide')
+    Fragezeichen122.classList.add('hide')
     weiter012.classList.add('hide')
     Video13.classList.remove('hide')
     Loc13.classList.add('hide')
     Video013.play()
+    Video013.currentTime = 0
+    skip013.classList.remove('hide')
     Seite012.classList.remove('container')
 }
 
@@ -3519,10 +4048,14 @@ function weiter13(){
     img13.classList.add('hide')
     Wo013.classList.add('hide')
     Fragezeichen13.classList.add('hide')
+    Wo0132.classList.add('hide')
+    Fragezeichen132.classList.add('hide')
     weiter013.classList.add('hide')
     Video14.classList.remove('hide')
     Loc14.classList.add('hide')
     Video014.play()
+    Video014.currentTime = 0
+    skip014.classList.remove('hide')
     Seite013.classList.remove('container')
 }
 
@@ -3532,6 +4065,8 @@ function weiter14(){
     Seite014.classList.remove('container')
     Wo014.classList.add('hide')
     Fragezeichen14.classList.add('hide')
+    Wo0142.classList.add('hide')
+    Fragezeichen142.classList.add('hide')
     Home014.classList.add('hide')
     img14.classList.add('hide')
     Startseite01.classList.remove('hide')
@@ -3540,6 +4075,8 @@ function weiter14(){
 
 function weiter17(){
     Video01.play()
+    Video01.currentTime = 0
+    skip01.classList.remove('hide')
     Video1.classList.remove('hide')
     Video1.classList.add('center')
     Loc1.classList.add('hide')
@@ -3547,6 +4084,7 @@ function weiter17(){
     Feld017.classList.add('hide')
     Seite017.classList.remove('container')
     Fragezeichen17.classList.add('hide')
+    Fragezeichen172.classList.add('hide')
     Home017.classList.add('hide')
     weiter017.classList.add('hide')
 }
@@ -4469,6 +5007,8 @@ function Fragezeichen0172(){
 function Wo1(){
     Feld01.classList.add('hide')
     Wo01.classList.add('hide')
+    top01.classList.remove('top')
+    top01.classList.add('top1')
     Fragezeichen.classList.add('hide')
     Home01.classList.add('hide')
     img1.classList.add('hide')
@@ -4483,6 +5023,8 @@ function Wo2(){
     Feld02.classList.add('hide')
     img2.classList.add('hide')
     Wo02.classList.add('hide')
+    top02.classList.remove('top')
+    top02.classList.add('top1')
     Fragezeichen2.classList.add('hide')
     Home02.classList.add('hide')
     Karte02.classList.remove('hide')
@@ -4496,6 +5038,8 @@ function Wo22(){
     img2.classList.add('hide')
     Wo022.classList.add('hide')
     Fragezeichen22.classList.add('hide')
+    top02.classList.remove('top')
+    top02.classList.add('top1')
     Home02.classList.add('hide')
     Karte02.classList.remove('hide')
     weiter02.classList.add('hide')
@@ -4508,6 +5052,8 @@ function Wo3(){
     img3.classList.add('hide')
     Wo03.classList.add('hide')
     Fragezeichen3.classList.add('hide')
+    top03.classList.remove('top')
+    top03.classList.add('top1')
     Home03.classList.add('hide')
     Karte03.classList.remove('hide')
     Zuruck03.classList.remove('hide')
@@ -4520,6 +5066,8 @@ function Wo32(){
     img3.classList.add('hide')
     Wo032.classList.add('hide')
     Fragezeichen32.classList.add('hide')
+    top03.classList.remove('top')
+    top03.classList.add('top1')
     Home03.classList.add('hide')
     Karte03.classList.remove('hide')
     Zuruck032.classList.remove('hide')
@@ -4532,6 +5080,8 @@ function Wo4(){
     img4.classList.add('hide')
     Wo04.classList.add('hide')
     Fragezeichen4.classList.add('hide')
+    top04.classList.remove('top')
+    top04.classList.add('top1')
     Home04.classList.add('hide')
     Karte04.classList.remove('hide')
     Zuruck04.classList.remove('hide')
@@ -4544,6 +5094,8 @@ function Wo42(){
     img4.classList.add('hide')
     Wo042.classList.add('hide')
     Fragezeichen42.classList.add('hide')
+    top04.classList.remove('top')
+    top04.classList.add('top1')
     Home04.classList.add('hide')
     Karte04.classList.remove('hide')
     Zuruck042.classList.remove('hide')
@@ -4556,6 +5108,8 @@ function Wo5(){
     img5.classList.add('hide')
     Wo05.classList.add('hide')
     Fragezeichen5.classList.add('hide')
+    top05.classList.remove('top')
+    top05.classList.add('top1')
     Home05.classList.add('hide')
     Karte05.classList.remove('hide')
     Zuruck05.classList.remove('hide')
@@ -4568,6 +5122,8 @@ function Wo52(){
     img5.classList.add('hide')
     Wo052.classList.add('hide')
     Fragezeichen52.classList.add('hide')
+    top05.classList.remove('top')
+    top05.classList.add('top1')
     Home05.classList.add('hide')
     Karte05.classList.remove('hide')
     Zuruck052.classList.remove('hide')
@@ -4580,6 +5136,8 @@ function Wo6(){
     img6.classList.add('hide')
     Wo06.classList.add('hide')
     Fragezeichen6.classList.add('hide')
+    top06.classList.remove('top')
+    top06.classList.add('top1')
     Home06.classList.add('hide')
     Karte06.classList.remove('hide')
     Zuruck06.classList.remove('hide')
@@ -4592,6 +5150,8 @@ function Wo62(){
     img6.classList.add('hide')
     Wo062.classList.add('hide')
     Fragezeichen62.classList.add('hide')
+    top06.classList.remove('top')
+    top06.classList.add('top1')
     Home06.classList.add('hide')
     Karte06.classList.remove('hide')
     Zuruck062.classList.remove('hide')
@@ -4604,6 +5164,8 @@ function Wo7(){
     img7.classList.add('hide')
     Wo07.classList.add('hide')
     Fragezeichen7.classList.add('hide')
+    top07.classList.remove('top')
+    top07.classList.add('top1')
     Home07.classList.add('hide')
     Karte07.classList.remove('hide')
     Zuruck07.classList.remove('hide')
@@ -4616,6 +5178,8 @@ function Wo72(){
     img7.classList.add('hide')
     Wo072.classList.add('hide')
     Fragezeichen72.classList.add('hide')
+    top07.classList.remove('top')
+    top07.classList.add('top1')
     Home07.classList.add('hide')
     Karte07.classList.remove('hide')
     Zuruck072.classList.remove('hide')
@@ -4628,6 +5192,8 @@ function Wo8(){
     img8.classList.add('hide')
     Wo08.classList.add('hide')
     Fragezeichen8.classList.add('hide')
+    top08.classList.remove('top')
+    top08.classList.add('top1')
     Home08.classList.add('hide')
     Karte08.classList.remove('hide')
     Zuruck08.classList.remove('hide')
@@ -4640,6 +5206,8 @@ function Wo82(){
     img8.classList.add('hide')
     Wo082.classList.add('hide')
     Fragezeichen82.classList.add('hide')
+    top08.classList.remove('top')
+    top08.classList.add('top1')
     Home08.classList.add('hide')
     Karte08.classList.remove('hide')
     Zuruck082.classList.remove('hide')
@@ -4652,6 +5220,8 @@ function Wo9(){
     img9.classList.add('hide')
     Wo09.classList.add('hide')
     Fragezeichen9.classList.add('hide')
+    top09.classList.remove('top')
+    top09.classList.add('top1')
     Home09.classList.add('hide')
     Karte09.classList.remove('hide')
     Zuruck09.classList.remove('hide')
@@ -4664,6 +5234,8 @@ function Wo92(){
     img9.classList.add('hide')
     Wo092.classList.add('hide')
     Fragezeichen92.classList.add('hide')
+    top09.classList.remove('top')
+    top09.classList.add('top1')
     Home09.classList.add('hide')
     Karte09.classList.remove('hide')
     Zuruck092.classList.remove('hide')
@@ -4676,6 +5248,8 @@ function Wo10(){
     img10.classList.add('hide')
     Wo010.classList.add('hide')
     Fragezeichen10.classList.add('hide')
+    top010.classList.remove('top')
+    top010.classList.add('top1')
     Home010.classList.add('hide')
     Karte010.classList.remove('hide')
     Zuruck010.classList.remove('hide')
@@ -4688,6 +5262,8 @@ function Wo102(){
     img10.classList.add('hide')
     Wo0102.classList.add('hide')
     Fragezeichen102.classList.add('hide')
+    top010.classList.remove('top')
+    top010.classList.add('top1')
     Home010.classList.add('hide')
     Karte010.classList.remove('hide')
     Zuruck0102.classList.remove('hide')
@@ -4700,6 +5276,8 @@ function Wo11(){
     img11.classList.add('hide')
     Wo011.classList.add('hide')
     Fragezeichen11.classList.add('hide')
+    top011.classList.remove('top')
+    top011.classList.add('top1')
     Home011.classList.add('hide')
     Karte011.classList.remove('hide')
     Zuruck011.classList.remove('hide')
@@ -4712,6 +5290,8 @@ function Wo112(){
     img11.classList.add('hide')
     Wo0112.classList.add('hide')
     Fragezeichen112.classList.add('hide')
+    top011.classList.remove('top')
+    top011.classList.add('top1')
     Home011.classList.add('hide')
     Karte011.classList.remove('hide')
     Zuruck0112.classList.remove('hide')
@@ -4724,6 +5304,8 @@ function Wo12(){
     img12.classList.add('hide')
     Wo012.classList.add('hide')
     Fragezeichen12.classList.add('hide')
+    top012.classList.remove('top')
+    top012.classList.add('top1')
     Home012.classList.add('hide')
     Karte012.classList.remove('hide')
     Zuruck012.classList.remove('hide')
@@ -4736,6 +5318,8 @@ function Wo122(){
     img12.classList.add('hide')
     Wo0122.classList.add('hide')
     Fragezeichen122.classList.add('hide')
+    top012.classList.remove('top')
+    top012.classList.add('top1')
     Home012.classList.add('hide')
     Karte012.classList.remove('hide')
     Zuruck0122.classList.remove('hide')
@@ -4748,6 +5332,8 @@ function Wo13(){
     img13.classList.add('hide')
     Wo013.classList.add('hide')
     Fragezeichen13.classList.add('hide')
+    top013.classList.remove('top')
+    top013.classList.add('top1')
     Home013.classList.add('hide')
     Karte013.classList.remove('hide')
     Zuruck013.classList.remove('hide')
@@ -4760,6 +5346,8 @@ function Wo132(){
     img13.classList.add('hide')
     Wo0132.classList.add('hide')
     Fragezeichen132.classList.add('hide')
+    top013.classList.remove('top')
+    top013.classList.add('top1')
     Home013.classList.add('hide')
     Karte013.classList.remove('hide')
     Zuruck0132.classList.remove('hide')
@@ -4772,6 +5360,8 @@ function Wo14(){
     img14.classList.add('hide')
     Wo014.classList.add('hide')
     Fragezeichen14.classList.add('hide')
+    top014.classList.remove('top')
+    top014.classList.add('top1')
     Home014.classList.add('hide')
     Karte014.classList.remove('hide')
     Zuruck014.classList.remove('hide')
@@ -4784,6 +5374,8 @@ function Wo142(){
     img14.classList.add('hide')
     Wo0142.classList.add('hide')
     Fragezeichen142.classList.add('hide')
+    top014.classList.remove('top')
+    top014.classList.add('top1')
     Home014.classList.add('hide')
     Karte014.classList.remove('hide')
     Zuruck0142.classList.remove('hide')
@@ -4795,6 +5387,8 @@ function Wo17(){
     Feld017.classList.add('hide')
     Wo017.classList.add('hide')
     Fragezeichen17.classList.add('hide')
+    top017.classList.remove('top')
+    top017.classList.add('top1')
     Home017.classList.add('hide')
     Karte017.classList.remove('hide')
     Zuruck017.classList.remove('hide')
@@ -4806,6 +5400,8 @@ function Wo172(){
     Feld017.classList.add('hide')
     Wo0172.classList.add('hide')
     Fragezeichen172.classList.add('hide')
+    top017.classList.remove('top')
+    top017.classList.add('top1')
     Home017.classList.add('hide')
     Karte017.classList.remove('hide')
     Zuruck0172.classList.remove('hide')
